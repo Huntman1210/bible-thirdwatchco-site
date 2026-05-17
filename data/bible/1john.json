@@ -1,0 +1,560 @@
+{
+  "book": "1 John",
+  "chapters": [
+    {
+      "num": 1,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;",
+          "modern": "What was from the beginning, what we have heard, what we have seen with our own eyes, what we have looked at and touched with our hands — this is what we proclaim concerning the Word of life."
+        },
+        {
+          "v": 2,
+          "kjv": "(For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)",
+          "modern": "The life was revealed to us. We have seen it and testify to it, and we declare to You the eternal life which was with the Father and was revealed to us."
+        },
+        {
+          "v": 3,
+          "kjv": "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.",
+          "modern": "We declare to You what we have seen and heard, so that You also may have fellowship with us. And our fellowship is with the Father and with His Son, Jesus Christ."
+        },
+        {
+          "v": 4,
+          "kjv": "And these things write we unto you, that your joy may be full.",
+          "modern": "We write this to make our joy complete."
+        },
+        {
+          "v": 5,
+          "kjv": "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.",
+          "modern": "This is the message we have heard from Him and declare to You: God is light; in Him there is no darkness at all."
+        },
+        {
+          "v": 6,
+          "kjv": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:",
+          "modern": "If we claim to have fellowship with Him and yet walk in the darkness, we lie and do not live out the truth."
+        },
+        {
+          "v": 7,
+          "kjv": "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.",
+          "modern": "But if we walk in the light, as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin."
+        },
+        {
+          "v": 8,
+          "kjv": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+          "modern": "If we claim to be without sin, we deceive ourselves and the truth is not in us."
+        },
+        {
+          "v": 9,
+          "kjv": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+          "modern": "If we confess our sins, He is faithful and just and will forgive us our sins and cleanse us from all unrighteousness."
+        },
+        {
+          "v": 10,
+          "kjv": "If we say that we have not sinned, we make him a liar, and his word is not in us.",
+          "modern": "If we claim we have not sinned, we make Him out to be a liar and His word is not in us."
+        }
+      ],
+      "summary": "John declares that he and the apostles are eyewitnesses of the Word of life, which was from the beginning, and that their message is that God is light and in Him is no darkness at all. He teaches that if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin."
+    },
+    {
+      "num": 2,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+          "modern": "My dear children, I write this to You so that You will not sin. But if anybody does sin, we have one who speaks to the Father in our defense — Jesus Christ, the Righteous One."
+        },
+        {
+          "v": 2,
+          "kjv": "And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.",
+          "modern": "He is the propitiation for our sins, and not for ours only but also for the sins of the whole world."
+        },
+        {
+          "v": 3,
+          "kjv": "And hereby we do know that we know him, if we keep his commandments.",
+          "modern": "We know that we have come to know Him if we keep His commandments."
+        },
+        {
+          "v": 4,
+          "kjv": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.",
+          "modern": "Whoever says, \"I know him,\" but does not keep his commandments is a liar, and the truth is not in that person."
+        },
+        {
+          "v": 5,
+          "kjv": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.",
+          "modern": "But if anyone obeys his word, love for God is truly made complete in them. This is how we know we are in Him."
+        },
+        {
+          "v": 6,
+          "kjv": "He that saith he abideth in him ought himself also so to walk, even as he walked.",
+          "modern": "Whoever claims to live in him must live as Jesus did."
+        },
+        {
+          "v": 7,
+          "kjv": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.",
+          "modern": "Dear friends, I am not writing a new command to You, but an old command which You have had from the beginning. This old command is the message You have heard."
+        },
+        {
+          "v": 8,
+          "kjv": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.",
+          "modern": "Yet I am writing You a new command. Its truth is seen in Him and in You, because the darkness is passing and the true light is already shining."
+        },
+        {
+          "v": 9,
+          "kjv": "He that saith he is in the light, and hateth his brother, is in darkness even until now.",
+          "modern": "Anyone who claims to be in the light but hates a brother or sister is still in the darkness."
+        },
+        {
+          "v": 10,
+          "kjv": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.",
+          "modern": "Anyone who loves their brother and sister lives in the light, and there is nothing in them to make them stumble."
+        },
+        {
+          "v": 11,
+          "kjv": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.",
+          "modern": "But anyone who hates a brother or sister is in the darkness and walks in the darkness. They do not know where they are going, because the darkness has blinded them."
+        },
+        {
+          "v": 12,
+          "kjv": "I write unto you, little children, because your sins are forgiven you for his name's sake.",
+          "modern": "I am writing to You, dear children, because Your sins have been forgiven on account of His name."
+        },
+        {
+          "v": 13,
+          "kjv": "I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.",
+          "modern": "I am writing to You, fathers, because You know Him who is from the beginning. I am writing to You, young men, because You have overcome the evil one. I am writing to You, dear children, because You have known the Father."
+        },
+        {
+          "v": 14,
+          "kjv": "I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.",
+          "modern": "I write to You, fathers, because You know Him who is from the beginning. I write to You, young men, because You are strong, and the word of God lives in You, and You have overcome the evil one."
+        },
+        {
+          "v": 15,
+          "kjv": "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.",
+          "modern": "Do not love the world or anything in the world. If anyone loves the world, love for the Father is not in them."
+        },
+        {
+          "v": 16,
+          "kjv": "For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.",
+          "modern": "For everything in the world — the lust of the flesh, the lust of the eyes, and the pride of life — comes not from the Father but from the world."
+        },
+        {
+          "v": 17,
+          "kjv": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.",
+          "modern": "The world and its desires pass away, but whoever does the will of God lives forever."
+        },
+        {
+          "v": 18,
+          "kjv": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.",
+          "modern": "Dear children, this is the last hour; and as You have heard that the antichrist is coming, even now many antichrists have come. This is how we know it is the last hour."
+        },
+        {
+          "v": 19,
+          "kjv": "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.",
+          "modern": "They went out from us, but they did not really belong to us. For if they had belonged to us, they would have remained with us. But their going showed that none of them belonged to us."
+        },
+        {
+          "v": 20,
+          "kjv": "But ye have an unction from the Holy One, and ye know all things.",
+          "modern": "But You have an anointing from the Holy One, and all of You know the truth."
+        },
+        {
+          "v": 21,
+          "kjv": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.",
+          "modern": "I do not write to You because You do not know the truth, but because You do know it and because no lie comes from the truth."
+        },
+        {
+          "v": 22,
+          "kjv": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.",
+          "modern": "Who is the liar? It is whoever denies that Jesus is the Christ. Such a person is the antichrist — denying the Father and the Son."
+        },
+        {
+          "v": 23,
+          "kjv": "Whosoever denieth the Son, the same hath not the Father: (but) he that acknowledgeth the Son hath the Father also.",
+          "modern": "No one who denies the Son has the Father. Whoever acknowledges the Son has the Father also."
+        },
+        {
+          "v": 24,
+          "kjv": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.",
+          "modern": "As for You, see that what You have heard from the beginning remains in You. If it does, You also will remain in the Son and in the Father."
+        },
+        {
+          "v": 25,
+          "kjv": "And this is the promise that he hath promised us, even eternal life.",
+          "modern": "And this is what He promised us — eternal life."
+        },
+        {
+          "v": 26,
+          "kjv": "These things have I written unto you concerning them that seduce you.",
+          "modern": "I am writing these things to You about those who are trying to lead You astray."
+        },
+        {
+          "v": 27,
+          "kjv": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.",
+          "modern": "As for You, the anointing You received from Him remains in You, and You do not need anyone to teach you. But as his anointing teaches you about all things and as that anointing is real, not counterfeit — just as it has taught You, remain in Him."
+        },
+        {
+          "v": 28,
+          "kjv": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.",
+          "modern": "And now, dear children, continue in Him, so that when He appears we may be confident and unashamed before Him at His coming."
+        },
+        {
+          "v": 29,
+          "kjv": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.",
+          "modern": "If You know that He is righteous, You know that everyone who does what is right has been born of Him."
+        }
+      ],
+      "summary": "John writes that if anyone sins, we have an advocate with the Father, Jesus Christ the righteous, and He is the propitiation for our sins and for the sins of the whole world. He warns against loving the world, for all that is in the world — the lust of the flesh, the lust of the eyes, and the pride of life — is not of the Father, and he identifies the antichrist spirit already at work in those who deny that Jesus is the Christ."
+    },
+    {
+      "num": 3,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+          "modern": "See what manner of love the Father has bestowed on us, that we should be called the sons of God; therefore the world knows us not, because it knew Him not."
+        },
+        {
+          "v": 2,
+          "kjv": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.",
+          "modern": "Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when Christ appears, we shall be like Him, for we shall see Him as He is."
+        },
+        {
+          "v": 3,
+          "kjv": "And every man that hath this hope in him purifieth himself, even as he is pure.",
+          "modern": "All who have this hope in Him purify themselves, just as He is pure."
+        },
+        {
+          "v": 4,
+          "kjv": "Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.",
+          "modern": "Everyone who sins breaks the law. In fact, sin is lawlessness."
+        },
+        {
+          "v": 5,
+          "kjv": "And ye know that he was manifested to take away our sins; and in him is no sin.",
+          "modern": "But You know that He appeared so that He might take away our sins. And in Him is no sin."
+        },
+        {
+          "v": 6,
+          "kjv": "Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.",
+          "modern": "No one who lives in him keeps on sinning. No one who continues to sin has either seen him or known Him."
+        },
+        {
+          "v": 7,
+          "kjv": "Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.",
+          "modern": "Dear children, do not let anyone lead you astray. The one who does what is right is righteous, just as He is righteous."
+        },
+        {
+          "v": 8,
+          "kjv": "He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.",
+          "modern": "The one who does what is sinful is of the devil, because the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the devil's work."
+        },
+        {
+          "v": 9,
+          "kjv": "Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.",
+          "modern": "No one who is born of God will continue to sin, because God's seed remains in them. They cannot go on sinning, because they have been born of God."
+        },
+        {
+          "v": 10,
+          "kjv": "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.",
+          "modern": "This is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not God's child, nor is anyone who does not love their brother and sister."
+        },
+        {
+          "v": 11,
+          "kjv": "For this is the message that ye heard from the beginning, that we should love one another.",
+          "modern": "For this is the message you heard from the beginning: We should love one another."
+        },
+        {
+          "v": 12,
+          "kjv": "Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.",
+          "modern": "Do not be like Cain, who belonged to the evil one and murdered his brother. And why did he murder him? Because his own actions were evil and his brother's were righteous."
+        },
+        {
+          "v": 13,
+          "kjv": "Marvel not, my brethren, if the world hate you.",
+          "modern": "Do not be surprised, brothers and sisters, if the world hates you."
+        },
+        {
+          "v": 14,
+          "kjv": "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.",
+          "modern": "We know that we have passed from death to life, because we love each other. Anyone who does not love remains in death."
+        },
+        {
+          "v": 15,
+          "kjv": "Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.",
+          "modern": "Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life living in him."
+        },
+        {
+          "v": 16,
+          "kjv": "Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.",
+          "modern": "This is how we know what love is: Jesus Christ laid down His life for us. And we ought to lay down our lives for our brothers and sisters."
+        },
+        {
+          "v": 17,
+          "kjv": "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?",
+          "modern": "If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person?"
+        },
+        {
+          "v": 18,
+          "kjv": "My little children, let us not love in word, neither in tongue; but in deed and in truth.",
+          "modern": "Dear children, let us not love with words or speech but with actions and in truth."
+        },
+        {
+          "v": 19,
+          "kjv": "And hereby we know that we are of the truth, and shall assure our hearts before him.",
+          "modern": "This is how we know that we belong to the truth and how we set our hearts at rest in His presence."
+        },
+        {
+          "v": 20,
+          "kjv": "For if our heart condemn us, God is greater than our heart, and knoweth all things.",
+          "modern": "If our hearts condemn us, we know that God is greater than our hearts, and He knows everything."
+        },
+        {
+          "v": 21,
+          "kjv": "Beloved, if our heart condemn us not, then have we confidence toward God.",
+          "modern": "Dear friends, if our hearts do not condemn us, we have confidence before God"
+        },
+        {
+          "v": 22,
+          "kjv": "And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.",
+          "modern": "And receive from Him anything we ask, because we keep His commandments and do what pleases Him."
+        },
+        {
+          "v": 23,
+          "kjv": "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.",
+          "modern": "And this is His command: to believe in the name of His Son, Jesus Christ, and to love one another as He commanded us."
+        },
+        {
+          "v": 24,
+          "kjv": "And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.",
+          "modern": "The one who keeps God's commands lives in Him, and He in them. And this is how we know that He lives in us: We know it by the Spirit He gave us."
+        }
+      ],
+      "summary": "John marvels at the love the Father has bestowed on us, that we should be called the sons of God, and declares that when Christ appears we shall be like Him, for we shall see Him as He is. He teaches that whoever is born of God does not practice sin, and that we should love one another not in word only but in deed and in truth, for hereby we know that we are of the truth."
+    },
+    {
+      "num": 4,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+          "modern": "Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world."
+        },
+        {
+          "v": 2,
+          "kjv": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:",
+          "modern": "This is how You can recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God."
+        },
+        {
+          "v": 3,
+          "kjv": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.",
+          "modern": "And every spirit that confesses not that Jesus Christ is come in the flesh is not of God; and this is that spirit of antichrist, of which You have heard that it should come, and even now already is it in the world."
+        },
+        {
+          "v": 4,
+          "kjv": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.",
+          "modern": "You, dear children, are from God and have overcome them, because the One who is in you is greater than the one who is in the world."
+        },
+        {
+          "v": 5,
+          "kjv": "They are of the world: therefore speak they of the world, and the world heareth them.",
+          "modern": "They are from the world and therefore speak from the viewpoint of the world, and the world listens to them."
+        },
+        {
+          "v": 6,
+          "kjv": "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.",
+          "modern": "We are from God, and whoever knows God listens to us. But whoever is not from God does not listen to us. This is how we recognize the Spirit of truth and the spirit of falsehood."
+        },
+        {
+          "v": 7,
+          "kjv": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+          "modern": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God."
+        },
+        {
+          "v": 8,
+          "kjv": "He that loveth not knoweth not God; for God is love.",
+          "modern": "Whoever does not love does not know God, because God is love."
+        },
+        {
+          "v": 9,
+          "kjv": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.",
+          "modern": "This is how God showed His love among us: He sent His only begotten Son into the world that we might live through Him."
+        },
+        {
+          "v": 10,
+          "kjv": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+          "modern": "This is love: not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins."
+        },
+        {
+          "v": 11,
+          "kjv": "Beloved, if God so loved us, we ought also to love one another.",
+          "modern": "Dear friends, since God so loved us, we also ought to love one another."
+        },
+        {
+          "v": 12,
+          "kjv": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.",
+          "modern": "No one has ever seen God. But if we love one another, God lives in us and His love is made complete in us."
+        },
+        {
+          "v": 13,
+          "kjv": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.",
+          "modern": "This is how we know that we live in Him and He in us: He has given us of His Spirit."
+        },
+        {
+          "v": 14,
+          "kjv": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world.",
+          "modern": "And we have seen and testify that the Father has sent His Son to be the Savior of the world."
+        },
+        {
+          "v": 15,
+          "kjv": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.",
+          "modern": "If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God."
+        },
+        {
+          "v": 16,
+          "kjv": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
+          "modern": "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them."
+        },
+        {
+          "v": 17,
+          "kjv": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+          "modern": "This is how love is made complete among us so that we will have confidence on the day of judgment: In this world we are like Jesus."
+        },
+        {
+          "v": 18,
+          "kjv": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+          "modern": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."
+        },
+        {
+          "v": 19,
+          "kjv": "We love him, because he first loved us.",
+          "modern": "We love because He first loved us."
+        },
+        {
+          "v": 20,
+          "kjv": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
+          "modern": "Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen."
+        },
+        {
+          "v": 21,
+          "kjv": "And this commandment have we from him, That he who loveth God love his brother also.",
+          "modern": "And He has given us this command: Anyone who loves God must also love their brother and sister."
+        }
+      ],
+      "summary": "John commands believers to test the spirits, for many false prophets have gone out into the world: every spirit that confesses Jesus Christ is come in the flesh is of God, and every spirit that does not confess this is the spirit of antichrist. He declares that God is love, that love is of God, and that perfect love casts out fear — we love Him because He first loved us."
+    },
+    {
+      "num": 5,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.",
+          "modern": "Everyone who believes that Jesus is the Christ is born of God, and everyone who loves the father loves His child as well."
+        },
+        {
+          "v": 2,
+          "kjv": "By this we know that we love the children of God, when we love God, and keep his commandments.",
+          "modern": "This is how we know that we love the children of God: by loving God and carrying out His commands."
+        },
+        {
+          "v": 3,
+          "kjv": "For this is the love of God, that we keep his commandments: and his commandments are not grievous.",
+          "modern": "In fact, this is love for God: to keep His commands. And His commands are not burdensome."
+        },
+        {
+          "v": 4,
+          "kjv": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.",
+          "modern": "For everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith."
+        },
+        {
+          "v": 5,
+          "kjv": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?",
+          "modern": "Who is it that overcomes the world? Only the one who believes that Jesus is the Son of God."
+        },
+        {
+          "v": 6,
+          "kjv": "This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.",
+          "modern": "This is the One who came by water and blood — Jesus Christ. He did not come by water only, but by water and blood. And it is the Spirit Who testifies, because the Spirit is the truth."
+        },
+        {
+          "v": 7,
+          "kjv": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.",
+          "modern": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one."
+        },
+        {
+          "v": 8,
+          "kjv": "And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one.",
+          "modern": "And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one."
+        },
+        {
+          "v": 9,
+          "kjv": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.",
+          "modern": "We accept human testimony, but God's testimony is greater because it is the testimony of God, which He has given about His Son."
+        },
+        {
+          "v": 10,
+          "kjv": "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.",
+          "modern": "Whoever believes in the Son of God accepts this testimony. Whoever does not believe God has made Him out to be a liar, because they have not believed the testimony God has given about His Son."
+        },
+        {
+          "v": 11,
+          "kjv": "And this is the record, that God hath given to us eternal life, and this life is in his Son.",
+          "modern": "And this is that testimony: God has given us eternal life, and this life is in His Son."
+        },
+        {
+          "v": 12,
+          "kjv": "He that hath the Son hath life; and he that hath not the Son of God hath not life.",
+          "modern": "Whoever has the Son has life. Whoever does not have the Son of God does not have life."
+        },
+        {
+          "v": 13,
+          "kjv": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.",
+          "modern": "These things have I written to You who believe on the name of the Son of God, that You may know that You have eternal life, and that You may believe on the name of the Son of God."
+        },
+        {
+          "v": 14,
+          "kjv": "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:",
+          "modern": "This is the confidence we have in approaching God: that if we ask anything according to His will, He hears us."
+        },
+        {
+          "v": 15,
+          "kjv": "And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.",
+          "modern": "And if we know that He hears us — whatever we ask — we know that we have what we asked of Him."
+        },
+        {
+          "v": 16,
+          "kjv": "If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.",
+          "modern": "If You see any brother or sister commit a sin that does not lead to death, You should pray and God will give them life. I refer to those whose sin does not lead to death. There is a sin that leads to death. I am not saying that You should pray about that."
+        },
+        {
+          "v": 17,
+          "kjv": "All unrighteousness is sin: and there is a sin not unto death.",
+          "modern": "All wrongdoing is sin, and there is sin that does not lead to death."
+        },
+        {
+          "v": 18,
+          "kjv": "We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.",
+          "modern": "We know that anyone born of God does not continue to sin. The One who was born of God keeps them safe, and the evil one cannot harm them."
+        },
+        {
+          "v": 19,
+          "kjv": "And we know that we are of God, and the whole world lieth in wickedness.",
+          "modern": "We know that we are children of God, and that the whole world is under the control of the evil one."
+        },
+        {
+          "v": 20,
+          "kjv": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.",
+          "modern": "We know also that the Son of God has come and has given us understanding, so that we may know Him who is true. And we are in Him who is true by being in His Son Jesus Christ. He is the true God and eternal life."
+        },
+        {
+          "v": 21,
+          "kjv": "Little children, keep yourselves from idols. Amen.",
+          "modern": "Dear children, keep yourselves from idols. Amen."
+        }
+      ],
+      "summary": "John declares that whoever believes that Jesus is the Christ is born of God, and that this is the victory that overcomes the world — even our faith. He affirms the three that bear record in heaven — the Father, the Word, and the Holy Ghost — and these three are one, and writes that he has penned these things so that believers may know they have eternal life."
+    }
+  ]
+}

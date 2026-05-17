@@ -1,0 +1,638 @@
+{
+  "book": "Song of Solomon",
+  "chapters": [
+    {
+      "num": 1,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "The song of songs, which is Solomon's.",
+          "modern": "The Song of Songs, which is Solomon's."
+        },
+        {
+          "v": 2,
+          "kjv": "Let him kiss me with the kisses of his mouth: for thy love is better than wine.",
+          "modern": "Let him kiss me with the kisses of his mouth, for your love is better than wine."
+        },
+        {
+          "v": 3,
+          "kjv": "Because of the savour of thy good ointments thy name is as ointment poured forth; therefore do the virgins love thee.",
+          "modern": "Because of the fragrance of your good ointments, your name is like ointment poured out. Therefore the young women love you."
+        },
+        {
+          "v": 4,
+          "kjv": "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.",
+          "modern": "Draw me, and we will run after you. The king has brought me into his chambers. We will be glad and rejoice in you; we will remember your love more than wine. The upright love you."
+        },
+        {
+          "v": 5,
+          "kjv": "I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
+          "modern": "I am dark, but lovely, O daughters of Jerusalem — like the tents of Kedar, like the curtains of Solomon."
+        },
+        {
+          "v": 6,
+          "kjv": "Look not upon me, because I am black, because the sun hath looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.",
+          "modern": "Do not look down on me because I am dark, because the sun has tanned me. My mother's sons were angry with me; they made me the keeper of the vineyards, but my own vineyard I have not kept."
+        },
+        {
+          "v": 7,
+          "kjv": "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?",
+          "modern": "Tell me, O you whom my soul loves, where you feed your flock, where you make it rest at noon. For why should I be like one who wanders beside the flocks of your companions?"
+        },
+        {
+          "v": 8,
+          "kjv": "If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents.",
+          "modern": "If you do not know, O fairest among women, follow the footsteps of the flock, and feed your young goats beside the shepherds' tents."
+        },
+        {
+          "v": 9,
+          "kjv": "I have compared thee, O my love, to a company of horses in Pharaoh's chariots.",
+          "modern": "I compare you, O my love, to a mare among Pharaoh's chariots."
+        },
+        {
+          "v": 10,
+          "kjv": "Thy cheeks are comely with rows of jewels, thy neck with chains of gold.",
+          "modern": "Your cheeks are lovely with rows of jewels, your neck with chains of gold."
+        },
+        {
+          "v": 11,
+          "kjv": "We will make thee borders of gold with studs of silver.",
+          "modern": "We will make for you ornaments of gold studded with silver."
+        },
+        {
+          "v": 12,
+          "kjv": "While the king sitteth at his table, my spikenard sendeth forth the smell thereof.",
+          "modern": "While the king sits at his table, my spikenard sends out its fragrance."
+        },
+        {
+          "v": 13,
+          "kjv": "A bundle of myrrh is my well-beloved unto me; he shall lie all night betwixt my breasts.",
+          "modern": "A bundle of myrrh is my beloved to me; He shall lie all night between my breasts."
+        },
+        {
+          "v": 14,
+          "kjv": "My beloved is unto me as a cluster of camphire in the vineyards of Engedi.",
+          "modern": "My beloved is to me a cluster of henna blossoms in the vineyards of Engedi."
+        },
+        {
+          "v": 15,
+          "kjv": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes.",
+          "modern": "How fair You are, my love! How fair You are! Your eyes are like doves."
+        },
+        {
+          "v": 16,
+          "kjv": "Behold, thou art fair, my beloved, yea, pleasant: also our bed is green.",
+          "modern": "How fair You are, my beloved, truly pleasant! Our bed is green with new growth."
+        },
+        {
+          "v": 17,
+          "kjv": "The beams of our house are cedar, and our rafters of fir.",
+          "modern": "The beams of our house are cedar, and our rafters are fir."
+        }
+      ],
+      "summary": "The bride longs for her beloved's kisses and praises his love as better than wine. She describes herself as dark but lovely, explains that her brothers made her keep the vineyards, and asks where her beloved feeds his flock. The bridegroom praises her beauty, comparing her to a mare among Pharaoh's chariots."
+    },
+    {
+      "num": 2,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "I am the rose of Sharon, and the lily of the valleys.",
+          "modern": "I am the rose of Sharon and the lily of the valleys."
+        },
+        {
+          "v": 2,
+          "kjv": "As the lily among thorns, so is my love among the daughters.",
+          "modern": "As the lily among thorns, so is my love among the daughters."
+        },
+        {
+          "v": 3,
+          "kjv": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.",
+          "modern": "As the apple tree among the trees of the forest, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste."
+        },
+        {
+          "v": 4,
+          "kjv": "He brought me to the banqueting house, and his banner over me was love.",
+          "modern": "He brought me to the banqueting house, and his banner over me was love."
+        },
+        {
+          "v": 5,
+          "kjv": "Stay me with flagons, comfort me with apples: for I am sick of love.",
+          "modern": "Sustain me with raisin cakes, refresh me with apples, for I am sick with love."
+        },
+        {
+          "v": 6,
+          "kjv": "His left hand is under my head, and his right hand doth embrace me.",
+          "modern": "His left hand is under my head, and his right hand embraces me."
+        },
+        {
+          "v": 7,
+          "kjv": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
+          "modern": "I charge you, O daughters of Jerusalem, by the gazelles and by the does of the field: do not stir up nor awaken love until it pleases."
+        },
+        {
+          "v": 8,
+          "kjv": "The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.",
+          "modern": "The voice of my beloved! He comes leaping on the mountains, bounding on the hills."
+        },
+        {
+          "v": 9,
+          "kjv": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.",
+          "modern": "My beloved is like a gazelle or a young stag. There he stands behind our wall; he looks in at the windows, showing himself through the lattice."
+        },
+        {
+          "v": 10,
+          "kjv": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.",
+          "modern": "My beloved spoke and said to me, \"Rise up, my love, my fair one, and come away."
+        },
+        {
+          "v": 11,
+          "kjv": "For, lo, the winter is past, the rain is over and gone;",
+          "modern": "For the winter is past; the rain is over and gone."
+        },
+        {
+          "v": 12,
+          "kjv": "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;",
+          "modern": "The flowers appear on the earth; the time of singing has come, and the voice of the turtledove is heard in our land."
+        },
+        {
+          "v": 13,
+          "kjv": "The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.",
+          "modern": "The fig tree puts forth her green figs, and the vines with their tender grapes give a sweet fragrance. Rise up, my love, my fair one, and come away.\""
+        },
+        {
+          "v": 14,
+          "kjv": "O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance, let me hear thy voice; for sweet is thy voice, and thy countenance is comely.",
+          "modern": "O my dove, in the clefts of the rock, in the secret places of the cliff, let me see your countenance, let me hear your voice. For sweet is your voice, and your countenance is lovely."
+        },
+        {
+          "v": 15,
+          "kjv": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.",
+          "modern": "Catch the foxes for us — the little foxes that spoil the vines — for our vines have tender grapes."
+        },
+        {
+          "v": 16,
+          "kjv": "My beloved is mine, and I am his: he feedeth among the lilies.",
+          "modern": "My beloved is mine, and I am his; he feeds among the lilies."
+        },
+        {
+          "v": 17,
+          "kjv": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.",
+          "modern": "Until the day breaks and the shadows flee away, turn, my beloved, and be like a gazelle or a young stag on the mountains of Bether."
+        }
+      ],
+      "summary": "The bride calls herself the rose of Sharon and the lily of the valleys. The bridegroom calls her a lily among thorns. She describes sitting under his shadow with delight and being brought to his banqueting house, where his banner over her is love. He calls her to come away, for winter is past and the time of singing has come."
+    },
+    {
+      "num": 3,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.",
+          "modern": "By night on my bed I sought him whom my soul loves. I sought him, but I did not find him."
+        },
+        {
+          "v": 2,
+          "kjv": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.",
+          "modern": "\"I will rise now and go about the city — through the streets and the broad ways — I will seek him whom my soul loves.\" I sought him, but I did not find him."
+        },
+        {
+          "v": 3,
+          "kjv": "The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?",
+          "modern": "The watchmen who go about the city found me. I said to them, \"Have you seen him whom my soul loves?\""
+        },
+        {
+          "v": 4,
+          "kjv": "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.",
+          "modern": "I had scarcely passed them when I found him whom my soul loves. I held him and would not let him go, until I had brought him to my mother's house, into the room of her who conceived me."
+        },
+        {
+          "v": 5,
+          "kjv": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
+          "modern": "I charge you, O daughters of Jerusalem, by the gazelles and by the does of the field: do not stir up nor awaken love until it pleases."
+        },
+        {
+          "v": 6,
+          "kjv": "Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?",
+          "modern": "Who is this coming out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all the fragrant powders of the merchant?"
+        },
+        {
+          "v": 7,
+          "kjv": "Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.",
+          "modern": "See, it is the bed of Solomon, with sixty valiant men around it — the mighty men of Israel."
+        },
+        {
+          "v": 8,
+          "kjv": "They all hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night.",
+          "modern": "They all hold swords, skilled in war. Every man has his sword on his thigh because of the terrors of the night."
+        },
+        {
+          "v": 9,
+          "kjv": "King Solomon made himself a chariot of the wood of Lebanon.",
+          "modern": "King Solomon made himself a royal carriage of the wood of Lebanon."
+        },
+        {
+          "v": 10,
+          "kjv": "He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem.",
+          "modern": "He made its pillars of silver, its base of gold, its seat of purple. Its interior was lovingly fitted by the daughters of Jerusalem."
+        },
+        {
+          "v": 11,
+          "kjv": "Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.",
+          "modern": "Go forth, O daughters of Zion, and see King Solomon wearing the crown his mother placed on him on the day of his wedding — the day of the gladness of his heart."
+        }
+      ],
+      "summary": "The bride searches for her beloved by night through the city streets and finds him after passing the watchmen. She charges the daughters of Jerusalem not to stir up love until it pleases. The poem then describes Solomon's royal procession from the wilderness, his bed guarded by sixty mighty men, and the crown his mother placed on him on his wedding day."
+    },
+    {
+      "num": 4,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.",
+          "modern": "How fair you are, my love! How fair you are! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down from Mount Gilead."
+        },
+        {
+          "v": 2,
+          "kjv": "Thy teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.",
+          "modern": "Your teeth are like a flock of newly shorn sheep coming up from the washing, each one bearing twins, and none barren among them."
+        },
+        {
+          "v": 3,
+          "kjv": "Thy lips are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a pomegranate within thy locks.",
+          "modern": "Your lips are like a thread of scarlet, and your speech is lovely. Your temples behind your veil are like a piece of pomegranate."
+        },
+        {
+          "v": 4,
+          "kjv": "Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
+          "modern": "Your neck is like the tower of David, built as an armory, on which hang a thousand bucklers — all shields of mighty men."
+        },
+        {
+          "v": 5,
+          "kjv": "Thy two breasts are like two young roes that are twins, which feed among the lilies.",
+          "modern": "Your two breasts are like two young gazelles that are twins, feeding among the lilies."
+        },
+        {
+          "v": 6,
+          "kjv": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+          "modern": "Until the day breaks and the shadows flee away, I will go to the mountain of myrrh and to the hill of frankincense."
+        },
+        {
+          "v": 7,
+          "kjv": "Thou art all fair, my love; there is no spot in thee.",
+          "modern": "You are altogether fair, my love; there is no flaw in you."
+        },
+        {
+          "v": 8,
+          "kjv": "Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards.",
+          "modern": "Come with me from Lebanon, my bride — with me from Lebanon. Look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards."
+        },
+        {
+          "v": 9,
+          "kjv": "Thou hast ravished my heart, my sister, my spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
+          "modern": "You have stolen my heart, my sister, my bride. You have stolen my heart with one glance of your eyes, with one jewel of your necklace."
+        },
+        {
+          "v": 10,
+          "kjv": "How fair is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
+          "modern": "How fair is your love, my sister, my bride! How much better is your love than wine, and the fragrance of your ointments than all spices!"
+        },
+        {
+          "v": 11,
+          "kjv": "Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon.",
+          "modern": "Your lips, O my bride, drip as the honeycomb. Honey and milk are under your tongue, and the fragrance of your garments is like the fragrance of Lebanon."
+        },
+        {
+          "v": 12,
+          "kjv": "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.",
+          "modern": "A garden enclosed is my sister, my bride — a spring shut up, a fountain sealed."
+        },
+        {
+          "v": 13,
+          "kjv": "Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+          "modern": "Your plants are an orchard of pomegranates with pleasant fruits — henna with spikenard,"
+        },
+        {
+          "v": 14,
+          "kjv": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+          "modern": "spikenard and saffron, calamus and cinnamon, with all trees of frankincense — myrrh and aloes, with all the finest spices."
+        },
+        {
+          "v": 15,
+          "kjv": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
+          "modern": "You are a fountain of gardens, a well of living waters, and streams flowing from Lebanon."
+        },
+        {
+          "v": 16,
+          "kjv": "Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+          "modern": "Awake, O north wind, and come, O south wind! Blow upon my garden, that its spices may flow out. Let my beloved come into his garden and eat its pleasant fruits."
+        }
+      ],
+      "summary": "The bridegroom praises his bride from head to foot — her eyes like doves, her hair like a flock of goats, her lips like scarlet thread — and declares there is no flaw in her. He calls her from Lebanon and says she has stolen his heart. He describes her as a garden enclosed, a fountain sealed, overflowing with every precious spice. The bride invites the winds to blow upon her garden so its fragrance may reach her beloved."
+    },
+    {
+      "num": 5,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+          "modern": "I have come into my garden, my sister, my bride. I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends! Drink — drink deeply, O beloved."
+        },
+        {
+          "v": 2,
+          "kjv": "I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.",
+          "modern": "I sleep, but my heart is awake. It is the voice of my beloved! He knocks, saying, \"Open to me, my sister, my love, my dove, my undefiled one, for my head is filled with dew, and my locks with the drops of the night.\""
+        },
+        {
+          "v": 3,
+          "kjv": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
+          "modern": "I have taken off my robe — how shall I put it on again? I have washed my feet — how shall I soil them?"
+        },
+        {
+          "v": 4,
+          "kjv": "My beloved put in his hand by the hole of the door, and my bowels were moved for him.",
+          "modern": "My beloved put his hand through the opening of the door, and my heart yearned for him."
+        },
+        {
+          "v": 5,
+          "kjv": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.",
+          "modern": "I rose to open to my beloved, and my hands dripped with myrrh — my fingers with liquid myrrh — on the handles of the lock."
+        },
+        {
+          "v": 6,
+          "kjv": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
+          "modern": "I opened to my beloved, but my beloved had turned away and was gone. My soul failed when he spoke. I sought him, but I could not find him; I called him, but he gave me no answer."
+        },
+        {
+          "v": 7,
+          "kjv": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.",
+          "modern": "The watchmen who went about the city found me. They struck me, they wounded me; the keepers of the walls took my veil from me."
+        },
+        {
+          "v": 8,
+          "kjv": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love.",
+          "modern": "I charge you, O daughters of Jerusalem — if you find my beloved, tell him that I am sick with love."
+        },
+        {
+          "v": 9,
+          "kjv": "What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?",
+          "modern": "What is your beloved more than another beloved, O fairest among women? What is your beloved more than another, that you so charge us?"
+        },
+        {
+          "v": 10,
+          "kjv": "My beloved is white and ruddy, the chiefest among ten thousand.",
+          "modern": "My beloved is radiant and ruddy, the chief among ten thousand."
+        },
+        {
+          "v": 11,
+          "kjv": "His head is as the most fine gold, his locks are bushy, and black as a raven.",
+          "modern": "His head is like the finest gold; his locks are wavy and black as a raven."
+        },
+        {
+          "v": 12,
+          "kjv": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.",
+          "modern": "His eyes are like doves beside streams of water, washed with milk, set like jewels."
+        },
+        {
+          "v": 13,
+          "kjv": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.",
+          "modern": "His cheeks are like a bed of spices, like banks of fragrant herbs. His lips are like lilies, dripping with liquid myrrh."
+        },
+        {
+          "v": 14,
+          "kjv": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.",
+          "modern": "His hands are like rings of gold set with beryl. His body is like polished ivory overlaid with sapphires."
+        },
+        {
+          "v": 15,
+          "kjv": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.",
+          "modern": "His legs are like pillars of marble set on bases of fine gold. His countenance is like Lebanon, excellent as the cedars."
+        },
+        {
+          "v": 16,
+          "kjv": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.",
+          "modern": "His mouth is most sweet; he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem."
+        }
+      ],
+      "summary": "The bridegroom enters his garden. The bride hesitates to open the door to her beloved, and when she rises he is gone. She searches for him through the city and the watchmen strike and wound her. The daughters of Jerusalem ask what makes her beloved special, and she describes him in lavish detail — his head like fine gold, his eyes like doves, his mouth most sweet — declaring he is altogether lovely."
+    },
+    {
+      "num": 6,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.",
+          "modern": "Where has your beloved gone, O fairest among women? Where has your beloved turned aside, that we may seek him with you?"
+        },
+        {
+          "v": 2,
+          "kjv": "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.",
+          "modern": "My beloved has gone down to his garden, to the beds of spices, to feed in the gardens and to gather lilies."
+        },
+        {
+          "v": 3,
+          "kjv": "I am my beloved's, and my beloved is mine: he feedeth among the lilies.",
+          "modern": "I am my beloved's, and my beloved is mine; he feeds among the lilies."
+        },
+        {
+          "v": 4,
+          "kjv": "Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.",
+          "modern": "You are beautiful, O my love, as Tirzah, lovely as Jerusalem, awesome as an army with banners."
+        },
+        {
+          "v": 5,
+          "kjv": "Turn away thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead.",
+          "modern": "Turn your eyes away from me, for they have overcome me. Your hair is like a flock of goats streaming down from Gilead."
+        },
+        {
+          "v": 6,
+          "kjv": "Thy teeth are as a flock of sheep which go up from the washing, whereof every one beareth twins, and there is not one barren among them.",
+          "modern": "Your teeth are like a flock of sheep coming up from the washing, each one bearing twins, and not one barren among them."
+        },
+        {
+          "v": 7,
+          "kjv": "As a piece of a pomegranate are thy temples within thy locks.",
+          "modern": "Your temples behind your veil are like a piece of pomegranate."
+        },
+        {
+          "v": 8,
+          "kjv": "There are threescore queens, and fourscore concubines, and virgins without number.",
+          "modern": "There are sixty queens and eighty concubines and young women without number,"
+        },
+        {
+          "v": 9,
+          "kjv": "My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her.",
+          "modern": "but my dove, my undefiled one, is the only one. She is the only one of her mother, the choice one of her who bore her. The daughters saw her and called her blessed; the queens and the concubines praised her."
+        },
+        {
+          "v": 10,
+          "kjv": "Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?",
+          "modern": "Who is she who looks forth like the morning, fair as the moon, clear as the sun, awesome as an army with banners?"
+        },
+        {
+          "v": 11,
+          "kjv": "I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded.",
+          "modern": "I went down to the garden of nuts to see the fresh growth of the valley, to see whether the vine had budded and the pomegranates were in bloom."
+        },
+        {
+          "v": 12,
+          "kjv": "Or ever I was aware, my soul made me like the chariots of Amminadib.",
+          "modern": "Before I was aware, my desire set me among the chariots of my noble people."
+        },
+        {
+          "v": 13,
+          "kjv": "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.",
+          "modern": "Return, return, O Shulamite! Return, return, that we may look upon you! What will you see in the Shulamite? As it were the dance of two companies."
+        }
+      ],
+      "summary": "The daughters of Jerusalem ask where the beloved has gone, and the bride answers that he has gone down to his garden. She declares, \"I am my beloved's, and my beloved is mine.\" The bridegroom praises her beauty as like Tirzah and awesome as an army with banners. Among sixty queens and eighty concubines, his dove, his undefiled one, stands alone. The daughters call for the Shulamite to return."
+    },
+    {
+      "num": 7,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.",
+          "modern": "How beautiful are your feet in sandals, O prince's daughter! The curves of your thighs are like jewels, the work of the hands of a master craftsman."
+        },
+        {
+          "v": 2,
+          "kjv": "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.",
+          "modern": "Your navel is like a round goblet that never lacks blended wine. Your waist is like a heap of wheat set about with lilies."
+        },
+        {
+          "v": 3,
+          "kjv": "Thy two breasts are like two young roes that are twins.",
+          "modern": "Your two breasts are like two young gazelles that are twins."
+        },
+        {
+          "v": 4,
+          "kjv": "Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.",
+          "modern": "Your neck is like a tower of ivory. Your eyes are like the pools in Heshbon by the gate of Bathrabbim. Your nose is like the tower of Lebanon which looks toward Damascus."
+        },
+        {
+          "v": 5,
+          "kjv": "Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries.",
+          "modern": "Your head crowns you like Carmel, and the hair of your head is like royal purple; the king is held captive in its tresses."
+        },
+        {
+          "v": 6,
+          "kjv": "How fair and how pleasant art thou, O love, for delights!",
+          "modern": "How fair and how pleasant you are, O love, for delights!"
+        },
+        {
+          "v": 7,
+          "kjv": "This thy stature is like to a palm tree, and thy breasts to clusters of grapes.",
+          "modern": "Your stature is like a palm tree, and your breasts like clusters of grapes."
+        },
+        {
+          "v": 8,
+          "kjv": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
+          "modern": "I said, \"I will climb the palm tree; I will take hold of its branches.\" Now your breasts shall be like clusters of the vine, the fragrance of your breath like apples,"
+        },
+        {
+          "v": 9,
+          "kjv": "And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak.",
+          "modern": "and the roof of your mouth like the best wine for my beloved, going down sweetly, causing the lips of those who are asleep to speak."
+        },
+        {
+          "v": 10,
+          "kjv": "I am my beloved's, and his desire is toward me.",
+          "modern": "I am my beloved's, and his desire is toward me."
+        },
+        {
+          "v": 11,
+          "kjv": "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
+          "modern": "Come, my beloved, let us go out into the field; let us lodge in the villages."
+        },
+        {
+          "v": 12,
+          "kjv": "Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.",
+          "modern": "Let us go up early to the vineyards. Let us see whether the vine has flowered, whether the tender grapes have appeared, and the pomegranates are in bud. There I will give you my love."
+        },
+        {
+          "v": 13,
+          "kjv": "The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.",
+          "modern": "The mandrakes give off their fragrance, and at our gates are all kinds of pleasant fruits — new and old — which I have stored up for you, O my beloved."
+        }
+      ],
+      "summary": "The bridegroom praises the bride from foot to head — her feet in sandals, her stature like a palm tree, her head like Carmel. The bride declares, \"I am my beloved's, and his desire is toward me,\" and invites him to go out into the fields and vineyards where she will give him her love."
+    },
+    {
+      "num": 8,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.",
+          "modern": "Oh, that you were like my brother who nursed at my mother's breasts! If I found you outside, I would kiss you, and no one would despise me."
+        },
+        {
+          "v": 2,
+          "kjv": "I would lead thee, and bring thee into my mother's house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.",
+          "modern": "I would lead you and bring you into my mother's house — she who taught me. I would give you spiced wine to drink, the juice of my pomegranate."
+        },
+        {
+          "v": 3,
+          "kjv": "His left hand should be under my head, and his right hand should embrace me.",
+          "modern": "His left hand would be under my head, and his right hand would embrace me."
+        },
+        {
+          "v": 4,
+          "kjv": "I charge you, O daughters of Jerusalem, that ye stir not up, nor awake my love, until he please.",
+          "modern": "I charge you, O daughters of Jerusalem: do not stir up nor awaken love until it pleases."
+        },
+        {
+          "v": 5,
+          "kjv": "Who is this that cometh up from the wilderness, leaning upon her beloved? I raised thee up under the apple tree: there thy mother brought thee forth: there she brought thee forth that bare thee.",
+          "modern": "Who is this coming up from the wilderness, leaning on her beloved? I awakened you under the apple tree. There your mother labored with you; there she who bore you was in labor."
+        },
+        {
+          "v": 6,
+          "kjv": "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.",
+          "modern": "Set me as a seal upon your heart, as a seal upon your arm. For love is strong as death; jealousy is fierce as the grave. Its flames are flames of fire — a most vehement flame."
+        },
+        {
+          "v": 7,
+          "kjv": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.",
+          "modern": "Many waters cannot quench love, nor can the floods drown it. If a man would give all the wealth of his house for love, it would be utterly scorned."
+        },
+        {
+          "v": 8,
+          "kjv": "We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?",
+          "modern": "We have a little sister, and she has no breasts yet. What shall we do for our sister on the day when she is spoken for?"
+        },
+        {
+          "v": 9,
+          "kjv": "If she be a wall, we will build upon her a palace of silver: and if she be a door, we will inclose her with boards of cedar.",
+          "modern": "If she is a wall, we will build upon her a battlement of silver. If she is a door, we will enclose her with boards of cedar."
+        },
+        {
+          "v": 10,
+          "kjv": "I am a wall, and my breasts like towers: then was I in his eyes as one that found favour.",
+          "modern": "I am a wall, and my breasts are like towers. Then I was in His eyes as one who found favor."
+        },
+        {
+          "v": 11,
+          "kjv": "Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver.",
+          "modern": "Solomon had a vineyard at Baalhamon. He leased the vineyard to keepers; each one was to bring a thousand pieces of silver for its fruit."
+        },
+        {
+          "v": 12,
+          "kjv": "My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.",
+          "modern": "My vineyard, which is mine, is before me. You, O Solomon, may have your thousand, and those who tend its fruit two hundred."
+        },
+        {
+          "v": 13,
+          "kjv": "Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it.",
+          "modern": "You who dwell in the gardens, the companions listen for your voice — let me hear it."
+        },
+        {
+          "v": 14,
+          "kjv": "Make haste, my beloved, and be thou like a roe or to a young hart upon the mountains of spices.",
+          "modern": "Make haste, my beloved! Be like a gazelle or a young stag on the mountains of spices."
+        }
+      ],
+      "summary": "The bride longs for open affection with her beloved and again charges the daughters of Jerusalem not to awaken love before its time. She declares that love is strong as death, jealousy fierce as the grave, and its flames are a most vehement flame that many waters cannot quench. The brothers speak of guarding their young sister, and the bride offers her own vineyard freely, telling Solomon to keep his thousand."
+    }
+  ]
+}

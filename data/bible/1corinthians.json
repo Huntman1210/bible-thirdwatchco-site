@@ -1,0 +1,2286 @@
+{
+  "book": "1 Corinthians",
+  "chapters": [
+    {
+      "num": 1,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,",
+          "modern": "Paul, called by the will of God to be an apostle of Jesus Christ, and our brother Sosthenes,"
+        },
+        {
+          "v": 2,
+          "kjv": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
+          "modern": "To the church of God that is in Corinth — to those sanctified in Christ Jesus, called to be saints — together with all those who in every place call on the name of our Lord Jesus Christ, both their Lord and ours:"
+        },
+        {
+          "v": 3,
+          "kjv": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.",
+          "modern": "Grace to You and peace from God our Father and the Lord Jesus Christ."
+        },
+        {
+          "v": 4,
+          "kjv": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;",
+          "modern": "I give thanks to my God always for You because of the grace of God that was given You in Christ Jesus."
+        },
+        {
+          "v": 5,
+          "kjv": "That in every thing ye are enriched by him, in all utterance, and in all knowledge;",
+          "modern": "In Him You were enriched in every way — in all speech and in all knowledge—"
+        },
+        {
+          "v": 6,
+          "kjv": "Even as the testimony of Christ was confirmed in you:",
+          "modern": "because the testimony about Christ was confirmed in You."
+        },
+        {
+          "v": 7,
+          "kjv": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:",
+          "modern": "You are not lacking in any spiritual gift as You wait for the revealing of our Lord Jesus Christ."
+        },
+        {
+          "v": 8,
+          "kjv": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.",
+          "modern": "He will also keep You firm to the end, so that You will be blameless on the day of our Lord Jesus Christ."
+        },
+        {
+          "v": 9,
+          "kjv": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
+          "modern": "God is faithful, by whom You were called into the fellowship of His Son, Jesus Christ our Lord."
+        },
+        {
+          "v": 10,
+          "kjv": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.",
+          "modern": "I urge You, brothers, by the name of our Lord Jesus Christ, that all of You agree and that there be no divisions among You. Be united in the same mind and the same judgment."
+        },
+        {
+          "v": 11,
+          "kjv": "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.",
+          "modern": "It has been reported to me by Chloe's people that there are quarrels among You, my brothers."
+        },
+        {
+          "v": 12,
+          "kjv": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.",
+          "modern": "What I mean is this: each of You says, \"I follow Paul,\" or \"I follow Apollos,\" or \"I follow Cephas,\" or \"I follow Christ.\""
+        },
+        {
+          "v": 13,
+          "kjv": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
+          "modern": "Is Christ divided? Was Paul crucified for you? Were you baptized in the name of Paul?"
+        },
+        {
+          "v": 14,
+          "kjv": "I thank God that I baptized none of you, but Crispus and Gaius;",
+          "modern": "I am thankful that I baptized none of You except Crispus and Gaius,"
+        },
+        {
+          "v": 15,
+          "kjv": "Lest any should say that I had baptized in mine own name.",
+          "modern": "so that no one can say you were baptized in my name."
+        },
+        {
+          "v": 16,
+          "kjv": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.",
+          "modern": "I also baptized the household of Stephanas; beyond that, I do not know whether I baptized anyone else."
+        },
+        {
+          "v": 17,
+          "kjv": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.",
+          "modern": "For Christ did not send me to baptize but to preach the gospel — not with wisdom of words, so that the cross of Christ might not be emptied of its power."
+        },
+        {
+          "v": 18,
+          "kjv": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+          "modern": "For the message of the cross is foolishness to them that perish, but to us who are saved it is the power of God."
+        },
+        {
+          "v": 19,
+          "kjv": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.",
+          "modern": "For it is written: \"I will destroy the wisdom of the wise, and I will set aside the understanding of the intelligent.\""
+        },
+        {
+          "v": 20,
+          "kjv": "Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?",
+          "modern": "Where is the wise man? Where is the teacher of the law? Where is the debater of this age? Has not God made foolish the wisdom of the world?"
+        },
+        {
+          "v": 21,
+          "kjv": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.",
+          "modern": "For since in the wisdom of God the world through its wisdom did not know God, it pleased God through the foolishness of what is preached to save those who believe."
+        },
+        {
+          "v": 22,
+          "kjv": "For the Jews require a sign, and the Greeks seek after wisdom:",
+          "modern": "Jews demand signs and Greeks seek wisdom,"
+        },
+        {
+          "v": 23,
+          "kjv": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;",
+          "modern": "but we preach Christ crucified — a stumbling block to Jews and foolishness to Gentiles,"
+        },
+        {
+          "v": 24,
+          "kjv": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.",
+          "modern": "but to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God."
+        },
+        {
+          "v": 25,
+          "kjv": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.",
+          "modern": "For the foolishness of God is wiser than men, and the weakness of God is stronger than men."
+        },
+        {
+          "v": 26,
+          "kjv": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:",
+          "modern": "Brothers, consider Your calling: not many of You were wise by human standards, not many were powerful, not many were of noble birth."
+        },
+        {
+          "v": 27,
+          "kjv": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
+          "modern": "But God chose the foolish things of the world to shame the wise, and God chose the weak things of the world to shame the strong."
+        },
+        {
+          "v": 28,
+          "kjv": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:",
+          "modern": "God chose the lowly things of this world, the despised things — and the things that are not — to bring to nothing the things that are,"
+        },
+        {
+          "v": 29,
+          "kjv": "That no flesh should glory in his presence.",
+          "modern": "so that no one may boast before God."
+        },
+        {
+          "v": 30,
+          "kjv": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
+          "modern": "It is because of Him that You are in Christ Jesus, Who has become for us wisdom from God — that is, our righteousness, sanctification, and redemption—"
+        },
+        {
+          "v": 31,
+          "kjv": "That, according as it is written, He that glorieth, let him glory in the Lord.",
+          "modern": "Therefore, as it is written: \"Let the one who boasts, boast in the Lord.\""
+        }
+      ],
+      "summary": "Paul rebukes the Corinthians for their divisions, as some claim to follow Paul, Apollos, Cephas, or Christ. He argues that the preaching of the cross is foolishness to those who perish but the power of God to those who are saved, and that God has chosen the foolish things of the world to shame the wise."
+    },
+    {
+      "num": 2,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.",
+          "modern": "When I came to You, brothers, I did not come with eloquence or human wisdom as I proclaimed to You the testimony of God."
+        },
+        {
+          "v": 2,
+          "kjv": "For I determined not to know any thing among you, save Jesus Christ, and him crucified.",
+          "modern": "I resolved to know nothing while I was with You except Jesus Christ and Him crucified."
+        },
+        {
+          "v": 3,
+          "kjv": "And I was with you in weakness, and in fear, and in much trembling.",
+          "modern": "I came to You in weakness, in fear, and with great trembling."
+        },
+        {
+          "v": 4,
+          "kjv": "And my speech and my preaching was not with enticing words of man's wisdom, but in demonstration of the Spirit and of power:",
+          "modern": "My speech and my preaching were not with persuasive words of human wisdom, but with a demonstration of the Spirit and of power,"
+        },
+        {
+          "v": 5,
+          "kjv": "That your faith should not stand in the wisdom of men, but in the power of God.",
+          "modern": "so that Your faith might not rest on human wisdom but on the power of God."
+        },
+        {
+          "v": 6,
+          "kjv": "Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:",
+          "modern": "We do, however, speak wisdom among the mature. But it is not the wisdom of this age or of the rulers of this age, who are passing away."
+        },
+        {
+          "v": 7,
+          "kjv": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:",
+          "modern": "We speak God's wisdom, a mystery that has been hidden — the wisdom God ordained before the ages for our glory."
+        },
+        {
+          "v": 8,
+          "kjv": "Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.",
+          "modern": "None of the rulers of this age knew it, for if they had known it, they would not have crucified the Lord of glory."
+        },
+        {
+          "v": 9,
+          "kjv": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+          "modern": "But as it is written: \"No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love Him.\""
+        },
+        {
+          "v": 10,
+          "kjv": "But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.",
+          "modern": "But God has revealed it to us by His Spirit. The Spirit searches all things, even the deep things of God."
+        },
+        {
+          "v": 11,
+          "kjv": "For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.",
+          "modern": "For who knows a man's thoughts except the man's own spirit? In the same way, no one knows the thoughts of God except the Spirit of God."
+        },
+        {
+          "v": 12,
+          "kjv": "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.",
+          "modern": "We have not received the spirit of the world but the Spirit Who is from God, so that we may understand what God has freely given us."
+        },
+        {
+          "v": 13,
+          "kjv": "Which things also we speak, not in the words which man's wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.",
+          "modern": "We speak of these things not in words taught by human wisdom, but in words taught by the Holy Ghost, interpreting spiritual truths in spiritual words."
+        },
+        {
+          "v": 14,
+          "kjv": "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.",
+          "modern": "The natural person does not accept the things of the Spirit of God, for they are foolishness to Him. He cannot understand them because they are spiritually discerned."
+        },
+        {
+          "v": 15,
+          "kjv": "But he that is spiritual judgeth all things, yet he himself is judged of no man.",
+          "modern": "The spiritual person judges all things, but He Himself is not subject to anyone's judgment."
+        },
+        {
+          "v": 16,
+          "kjv": "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.",
+          "modern": "\"For who has known the mind of the Lord, that He may instruct Him?\" But we have the mind of Christ."
+        }
+      ],
+      "summary": "Paul recalls that he came to Corinth not with eloquent wisdom but in weakness, determined to know nothing except Jesus Christ and Him crucified. He teaches that the Spirit searches all things, even the deep things of God, and that the natural man does not receive the things of the Spirit because they are spiritually discerned."
+    },
+    {
+      "num": 3,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.",
+          "modern": "Brothers, I could not address You as spiritual people but as people of the flesh — as infants in Christ."
+        },
+        {
+          "v": 2,
+          "kjv": "I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.",
+          "modern": "I fed You with milk, not solid food, for You were not ready for it. Indeed, You are still not ready,"
+        },
+        {
+          "v": 3,
+          "kjv": "For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?",
+          "modern": "for You are still of the flesh. For as long as there is jealousy and strife among You, are You not of the flesh and walking like mere men?"
+        },
+        {
+          "v": 4,
+          "kjv": "For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?",
+          "modern": "For when someone says, \"I follow Paul,\" and another, \"I follow Apollos,\" are you not merely human?"
+        },
+        {
+          "v": 5,
+          "kjv": "Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?",
+          "modern": "What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each."
+        },
+        {
+          "v": 6,
+          "kjv": "I have planted, Apollos watered; but God gave the increase.",
+          "modern": "I planted, Apollos watered, but God gave the growth."
+        },
+        {
+          "v": 7,
+          "kjv": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.",
+          "modern": "So neither he who plants nor he who waters is anything, but only God Who gives the growth."
+        },
+        {
+          "v": 8,
+          "kjv": "Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.",
+          "modern": "He who plants and he who waters are one, and each will receive his wages according to his labor."
+        },
+        {
+          "v": 9,
+          "kjv": "For we are labourers together with God: ye are God's husbandry, ye are God's building.",
+          "modern": "We are God's co-workers. You are God's field, God's building."
+        },
+        {
+          "v": 10,
+          "kjv": "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.",
+          "modern": "By the grace God gave me, I laid a foundation as a skilled builder, and someone else is building on it. Each one must be careful how he builds."
+        },
+        {
+          "v": 11,
+          "kjv": "For other foundation can no man lay than that is laid, which is Jesus Christ.",
+          "modern": "For no one can lay any other foundation than the one already laid, which is Jesus Christ."
+        },
+        {
+          "v": 12,
+          "kjv": "Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;",
+          "modern": "Whether anyone builds on this foundation with gold, silver, precious stones, wood, hay, or straw—"
+        },
+        {
+          "v": 13,
+          "kjv": "Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is.",
+          "modern": "each one's work will become clear. The Day will bring it to light, because it will be revealed by fire, and the fire will test what kind of work each has done."
+        },
+        {
+          "v": 14,
+          "kjv": "If any man's work abide which he hath built thereupon, he shall receive a reward.",
+          "modern": "If what He has built survives, He will receive a reward."
+        },
+        {
+          "v": 15,
+          "kjv": "If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.",
+          "modern": "If His work is burned up, He will suffer loss — though He Himself will be saved, but only as through fire."
+        },
+        {
+          "v": 16,
+          "kjv": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?",
+          "modern": "Do You not know that You are God's temple and that God's Spirit lives in You?"
+        },
+        {
+          "v": 17,
+          "kjv": "If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.",
+          "modern": "If anyone destroys God's temple, God will destroy Him. For God's temple is holy, and You are that temple."
+        },
+        {
+          "v": 18,
+          "kjv": "Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.",
+          "modern": "Let no one deceive himself. If anyone among you thinks he is wise in the ways of this age, He should become a fool so that He may become wise."
+        },
+        {
+          "v": 19,
+          "kjv": "For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.",
+          "modern": "The wisdom of this world is foolishness in God's sight. As it is written: \"He catches the wise in their own craftiness.\""
+        },
+        {
+          "v": 20,
+          "kjv": "And again, The Lord knoweth the thoughts of the wise, that they are vain.",
+          "modern": "And again: \"The Lord knows the thoughts of the wise, that they are futile.\""
+        },
+        {
+          "v": 21,
+          "kjv": "Therefore let no man glory in men. For all things are yours;",
+          "modern": "So let no one boast in men. For all things belong to you —"
+        },
+        {
+          "v": 22,
+          "kjv": "Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;",
+          "modern": "whether Paul or Apollos or Cephas or the world or life or death or the present or the future — all are yours,"
+        },
+        {
+          "v": 23,
+          "kjv": "And ye are Christ's; and Christ is God's.",
+          "modern": "and You are Christ's, and Christ is God's."
+        }
+      ],
+      "summary": "Paul calls the Corinthians carnal because of their jealousy and strife, saying he planted and Apollos watered but God gave the increase. He warns that each man's work will be tested by fire, and that the temple of God is holy — for if any man destroys the temple of God, God will destroy him."
+    },
+    {
+      "num": 4,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.",
+          "modern": "This is how one should regard us — as servants of Christ and stewards of the mysteries of God."
+        },
+        {
+          "v": 2,
+          "kjv": "Moreover it is required in stewards, that a man be found faithful.",
+          "modern": "Now it is required of stewards that they be found faithful."
+        },
+        {
+          "v": 3,
+          "kjv": "But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self.",
+          "modern": "With me it is a very small thing that I should be judged by You or by any human court. In fact, I do not even judge myself."
+        },
+        {
+          "v": 4,
+          "kjv": "For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.",
+          "modern": "I am not aware of anything against myself, but I am not acquitted by this. It is the Lord who judges me."
+        },
+        {
+          "v": 5,
+          "kjv": "Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God.",
+          "modern": "Therefore do not judge anything before the appointed time — wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of the heart. Then each person will receive His praise from God."
+        },
+        {
+          "v": 6,
+          "kjv": "And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.",
+          "modern": "I have applied these things to myself and Apollos for your benefit, brothers, so that you may learn from us the meaning of \"not beyond what is written,\" so that none of You will be puffed up in favor of one against another."
+        },
+        {
+          "v": 7,
+          "kjv": "For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?",
+          "modern": "For who makes You different from anyone else? What do you have that you did not receive? If You received it, why do You boast as if You did not receive it?"
+        },
+        {
+          "v": 8,
+          "kjv": "Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.",
+          "modern": "Already You have all You want! Already You have become rich! Without us You have become kings! How I wish You really were kings, so that we might be kings with You!"
+        },
+        {
+          "v": 9,
+          "kjv": "For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.",
+          "modern": "For I think that God has set forth us apostles last, as men appointed to death; for we are made a spectacle to the world, and to angels, and to men."
+        },
+        {
+          "v": 10,
+          "kjv": "We are fools for Christ's sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.",
+          "modern": "We are fools for Christ's sake, but You are so wise in Christ! We are weak, but You are strong! You are honored, but we are despised!"
+        },
+        {
+          "v": 11,
+          "kjv": "Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;",
+          "modern": "To this very hour we go hungry and thirsty. We are poorly clothed, brutally treated, and have no settled home."
+        },
+        {
+          "v": 12,
+          "kjv": "And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:",
+          "modern": "We work hard with our own hands. When we are cursed, we bless. When we are persecuted, we endure it."
+        },
+        {
+          "v": 13,
+          "kjv": "Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.",
+          "modern": "When we are slandered, we answer kindly. We have become the scum of the earth, the garbage of the world — right up to this moment."
+        },
+        {
+          "v": 14,
+          "kjv": "I write not these things to shame you, but as my beloved sons I warn you.",
+          "modern": "I am not writing this to shame You, but to warn You as my dear children."
+        },
+        {
+          "v": 15,
+          "kjv": "For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.",
+          "modern": "Even if You had ten thousand guardians in Christ, You do not have many fathers, for in Christ Jesus I became Your father through the gospel."
+        },
+        {
+          "v": 16,
+          "kjv": "Wherefore I beseech you, be ye followers of me.",
+          "modern": "I urge You, then, be imitators of me."
+        },
+        {
+          "v": 17,
+          "kjv": "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.",
+          "modern": "That is why I sent You Timothy, who is my beloved and faithful child in the Lord. He will remind You of my ways in Christ, as I teach them everywhere in every church."
+        },
+        {
+          "v": 18,
+          "kjv": "Now some are puffed up, as though I would not come to you.",
+          "modern": "Some of You have become arrogant, as though I were not coming to You."
+        },
+        {
+          "v": 19,
+          "kjv": "But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.",
+          "modern": "But I will come to You soon, if the Lord wills, and I will find out not the talk of these arrogant people but their power."
+        },
+        {
+          "v": 20,
+          "kjv": "For the kingdom of God is not in word, but in power.",
+          "modern": "For the kingdom of God is not in words but in power."
+        },
+        {
+          "v": 21,
+          "kjv": "What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?",
+          "modern": "What do You prefer? Shall I come to You with a rod, or in love with a gentle spirit?"
+        }
+      ],
+      "summary": "Paul teaches that apostles are stewards of the mysteries of God and that it is the Lord who judges, so they should not judge before the time. He contrasts the Corinthians' pride with the apostles' suffering, and warns them as a father that he will come to them and test not their words but their power."
+    },
+    {
+      "num": 5,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father's wife.",
+          "modern": "It is actually reported that there is sexual immorality among You — and of a kind that even unbelievers do not tolerate: a man is sleeping with his father's wife."
+        },
+        {
+          "v": 2,
+          "kjv": "And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.",
+          "modern": "And You are proud! Should You not rather have mourned? The one who did this should be removed from your midst."
+        },
+        {
+          "v": 3,
+          "kjv": "For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed,",
+          "modern": "Even though I am absent in body, I am present with You in spirit. And I have already passed judgment on the one who did this, just as if I were present."
+        },
+        {
+          "v": 4,
+          "kjv": "In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,",
+          "modern": "When You are assembled in the name of our Lord Jesus Christ and my spirit is present, with the power of our Lord Jesus Christ,"
+        },
+        {
+          "v": 5,
+          "kjv": "To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.",
+          "modern": "hand this man over to Satan for the destruction of his flesh, so that his spirit may be saved on the day of the Lord Jesus."
+        },
+        {
+          "v": 6,
+          "kjv": "Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?",
+          "modern": "Your boasting is not good. Do You not know that a little yeast leavens the whole batch of dough?"
+        },
+        {
+          "v": 7,
+          "kjv": "Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:",
+          "modern": "Remove the old yeast so that You may be a fresh batch, as You truly are without yeast. For Christ, our Passover lamb, has been sacrificed."
+        },
+        {
+          "v": 8,
+          "kjv": "Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth.",
+          "modern": "Therefore let us keep the feast — not with the old yeast of malice and wickedness, but with the unleavened bread of sincerity and truth."
+        },
+        {
+          "v": 9,
+          "kjv": "I wrote unto you in an epistle not to company with fornicators:",
+          "modern": "I wrote to You in my letter not to associate with sexually immoral people—"
+        },
+        {
+          "v": 10,
+          "kjv": "Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world.",
+          "modern": "not at all meaning the sexually immoral of this world, or the greedy and swindlers, or idolaters, for then You would have to go out of the world."
+        },
+        {
+          "v": 11,
+          "kjv": "But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.",
+          "modern": "But now I am writing to You not to associate with anyone who bears the name of brother if he is sexually immoral, greedy, an idolater, a slanderer, a drunkard, or a swindler — not even to eat with such a person."
+        },
+        {
+          "v": 12,
+          "kjv": "For what have I to do to judge them also that are without? do not ye judge them that are within?",
+          "modern": "What business is it of mine to judge those outside the church? Are You not to judge those inside?"
+        },
+        {
+          "v": 13,
+          "kjv": "But them that are without God judgeth. Therefore put away from among yourselves that wicked person.",
+          "modern": "God will judge those outside. \"Remove the wicked person from among you.\""
+        }
+      ],
+      "summary": "Paul rebukes the church for tolerating a man living in fornication with his father's wife and commands them to deliver him to Satan for the destruction of the flesh so that his spirit may be saved. He instructs them to purge out the old leaven, for Christ our passover is sacrificed for us, and not to keep company with any so-called brother living in open sin."
+    },
+    {
+      "num": 6,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?",
+          "modern": "When any of You has a dispute with another, how dare You take it before the unrighteous rather than before the saints?"
+        },
+        {
+          "v": 2,
+          "kjv": "Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?",
+          "modern": "Do You not know that the saints will judge the world? And if the world is to be judged by You, are You not competent to judge trivial matters?"
+        },
+        {
+          "v": 3,
+          "kjv": "Know ye not that we shall judge angels? how much more things that pertain to this life?",
+          "modern": "Do You not know that we will judge angels? How much more, then, things of this life!"
+        },
+        {
+          "v": 4,
+          "kjv": "If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.",
+          "modern": "If You have disputes about such matters, why do You appoint as judges those who are of no standing in the church?"
+        },
+        {
+          "v": 5,
+          "kjv": "I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?",
+          "modern": "I say this to shame You. Is there really no one among you wise enough to judge between his brothers?"
+        },
+        {
+          "v": 6,
+          "kjv": "But brother goeth to law with brother, and that before the unbelievers.",
+          "modern": "Instead, one brother takes another to court — and this before unbelievers!"
+        },
+        {
+          "v": 7,
+          "kjv": "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?",
+          "modern": "The very fact that You have lawsuits among yourselves is already a failure. Why not rather be wronged? Why not rather be cheated?"
+        },
+        {
+          "v": 8,
+          "kjv": "Nay, ye do wrong, and defraud, and that your brethren.",
+          "modern": "Instead, You yourselves wrong and cheat — and You do this to Your brothers!"
+        },
+        {
+          "v": 9,
+          "kjv": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
+          "modern": "Do You not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither fornicators, nor idolaters, nor adulterers, nor the effeminate, nor abusers of themselves with mankind,"
+        },
+        {
+          "v": 10,
+          "kjv": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.",
+          "modern": "nor thieves, nor the greedy, nor drunkards, nor slanderers, nor swindlers will inherit the kingdom of God."
+        },
+        {
+          "v": 11,
+          "kjv": "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.",
+          "modern": "Such were some of You. But You were washed, You were sanctified, You were justified in the name of the Lord Jesus Christ and by the Spirit of our God."
+        },
+        {
+          "v": 12,
+          "kjv": "All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.",
+          "modern": "\"All things are lawful for me,\" but not all things are beneficial. \"All things are lawful for me,\" but I will not be mastered by anything."
+        },
+        {
+          "v": 13,
+          "kjv": "Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.",
+          "modern": "\"Food is for the stomach and the stomach for food,\" and God will do away with both. But the body is not for sexual immorality — it is for the Lord, and the Lord for the body."
+        },
+        {
+          "v": 14,
+          "kjv": "And God hath both raised up the Lord, and will also raise up us by his own power.",
+          "modern": "God raised the Lord and will also raise us by His power."
+        },
+        {
+          "v": 15,
+          "kjv": "Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.",
+          "modern": "Do You not know that Your bodies are members of Christ? Shall I then take the members of Christ and join them to a prostitute? Not at all!"
+        },
+        {
+          "v": 16,
+          "kjv": "What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.",
+          "modern": "Do You not know that He who joins himself to a prostitute is one body with her? \"The two,\" He says, \"will become one flesh.\""
+        },
+        {
+          "v": 17,
+          "kjv": "But he that is joined unto the Lord is one spirit.",
+          "modern": "But He who is joined to the Lord is one spirit with him."
+        },
+        {
+          "v": 18,
+          "kjv": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.",
+          "modern": "Flee from sexual immorality. Every other sin a person commits is outside the body, but the one who is sexually immoral sins against his own body."
+        },
+        {
+          "v": 19,
+          "kjv": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?",
+          "modern": "Do You not know that Your body is the temple of the Holy Ghost Who is in You, whom You have from God? You are not Your own,"
+        },
+        {
+          "v": 20,
+          "kjv": "For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.",
+          "modern": "for You were bought with a price. So glorify God in Your body and in Your spirit, which are God's."
+        }
+      ],
+      "summary": "Paul rebukes believers for taking disputes before unbelieving judges instead of settling them within the church. He warns that the unrighteous shall not inherit the kingdom of God and declares that the body is the temple of the Holy Ghost — therefore they must flee fornication and glorify God in their body."
+    },
+    {
+      "num": 7,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.",
+          "modern": "Now concerning the things you wrote to me: it is good for a man not to touch a woman."
+        },
+        {
+          "v": 2,
+          "kjv": "Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.",
+          "modern": "But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband."
+        },
+        {
+          "v": 3,
+          "kjv": "Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.",
+          "modern": "The husband should give to his wife her conjugal rights, and likewise the wife to her husband."
+        },
+        {
+          "v": 4,
+          "kjv": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.",
+          "modern": "The wife does not have authority over her own body, but the husband does. Likewise, the husband does not have authority over his own body, but the wife does."
+        },
+        {
+          "v": 5,
+          "kjv": "Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.",
+          "modern": "Do not deprive each other except by mutual consent for a time, so that you may devote yourselves to prayer. Then come together again, so that Satan does not tempt you because of your lack of self-control."
+        },
+        {
+          "v": 6,
+          "kjv": "But I speak this by permission, and not of commandment.",
+          "modern": "I say this as a concession, not as a command."
+        },
+        {
+          "v": 7,
+          "kjv": "For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.",
+          "modern": "I wish that all men were as I am. But each person has his own gift from God — one of one kind and one of another."
+        },
+        {
+          "v": 8,
+          "kjv": "I say therefore to the unmarried and widows, It is good for them if they abide even as I.",
+          "modern": "To the unmarried and to widows I say: it is good for them to remain unmarried, as I am."
+        },
+        {
+          "v": 9,
+          "kjv": "But if they cannot contain, let them marry: for it is better to marry than to burn.",
+          "modern": "But if they cannot exercise self-control, they should marry. It is better to marry than to burn with passion."
+        },
+        {
+          "v": 10,
+          "kjv": "And unto the married I command, yet not I, but the Lord, Let not the wife depart from her husband:",
+          "modern": "To the married I give this charge — not I, but the Lord — a wife must not separate from her husband."
+        },
+        {
+          "v": 11,
+          "kjv": "But and if she depart, let her remain unmarried, or be reconciled to her husband: and let not the husband put away his wife.",
+          "modern": "But if she does separate, she must either remain unmarried or be reconciled to her husband. And a husband must not divorce his wife."
+        },
+        {
+          "v": 12,
+          "kjv": "But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.",
+          "modern": "To the rest I say — I, not the Lord — if any brother has a wife who is an unbeliever and she is willing to live with Him, He must not divorce her."
+        },
+        {
+          "v": 13,
+          "kjv": "And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.",
+          "modern": "And if a woman has a husband who is an unbeliever and he is willing to live with her, she must not divorce him."
+        },
+        {
+          "v": 14,
+          "kjv": "For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy.",
+          "modern": "For the unbelieving husband is sanctified through his believing wife, and the unbelieving wife is sanctified through her believing husband. Otherwise your children would be unclean, but as it is, they are holy."
+        },
+        {
+          "v": 15,
+          "kjv": "But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such cases: but God hath called us to peace.",
+          "modern": "But if the unbeliever leaves, let them leave. The brother or sister is not bound in such circumstances. God has called us to live in peace."
+        },
+        {
+          "v": 16,
+          "kjv": "For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife?",
+          "modern": "How do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
+        },
+        {
+          "v": 17,
+          "kjv": "But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.",
+          "modern": "Each person should live the life the Lord has assigned to Him and to which God has called Him. This is the rule I lay down in all the churches."
+        },
+        {
+          "v": 18,
+          "kjv": "Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.",
+          "modern": "Was a man already circumcised when he was called? He should not seek to become uncircumcised. Was a man uncircumcised when he was called? He should not be circumcised."
+        },
+        {
+          "v": 19,
+          "kjv": "Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.",
+          "modern": "Circumcision is nothing and uncircumcision is nothing. What matters is keeping the commandments of God."
+        },
+        {
+          "v": 20,
+          "kjv": "Let every man abide in the same calling wherein he was called.",
+          "modern": "Each person should remain in the condition in which he was called."
+        },
+        {
+          "v": 21,
+          "kjv": "Art thou called being a servant? care not for it: but if thou mayest be made free, use it rather.",
+          "modern": "Were you a slave when you were called? Do not let it trouble you — although if you can gain your freedom, do so."
+        },
+        {
+          "v": 22,
+          "kjv": "For he that is called in the Lord, being a servant, is the Lord's freeman: likewise also he that is called, being free, is Christ's servant.",
+          "modern": "For the one who was a slave when called in the Lord is the Lord's free man. Likewise, the one who was free when called is Christ's slave."
+        },
+        {
+          "v": 23,
+          "kjv": "Ye are bought with a price; be not ye the servants of men.",
+          "modern": "You were bought with a price; do not become servants of men."
+        },
+        {
+          "v": 24,
+          "kjv": "Brethren, let every man, wherein he is called, therein abide with God.",
+          "modern": "Brothers, each person should remain with God in the condition in which He was called."
+        },
+        {
+          "v": 25,
+          "kjv": "Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.",
+          "modern": "Now concerning virgins: I have no command from the Lord, but I give my judgment as one who by the Lord's mercy is trustworthy."
+        },
+        {
+          "v": 26,
+          "kjv": "I suppose therefore that this is good for the present distress, I say, that it is good for a man so to be.",
+          "modern": "I think that in view of the present distress, it is good for a man to remain as he is."
+        },
+        {
+          "v": 27,
+          "kjv": "Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.",
+          "modern": "Are You bound to a wife? Do not seek to be released. Are You free from a wife? Do not seek a wife."
+        },
+        {
+          "v": 28,
+          "kjv": "But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.",
+          "modern": "But if You do marry, You have not sinned. And if a virgin marries, she has not sinned. Yet those who marry will have trouble in this life, and I am trying to spare You that."
+        },
+        {
+          "v": 29,
+          "kjv": "But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;",
+          "modern": "What I mean, brothers, is that the time is short. From now on, those who have wives should live as if they had none;"
+        },
+        {
+          "v": 30,
+          "kjv": "And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;",
+          "modern": "those who mourn, as if they did not mourn; those who rejoice, as if they did not rejoice; those who buy, as if they did not own anything;"
+        },
+        {
+          "v": 31,
+          "kjv": "And they that use this world, as not abusing it: for the fashion of this world passeth away.",
+          "modern": "those who make use of the world, as if they did not make full use of it. For the present form of this world is passing away."
+        },
+        {
+          "v": 32,
+          "kjv": "But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:",
+          "modern": "I want You to be free from anxiety. The unmarried man is concerned about the things of the Lord — how He may please the Lord."
+        },
+        {
+          "v": 33,
+          "kjv": "But he that is married careth for the things that are of the world, how he may please his wife.",
+          "modern": "But the married man is concerned about worldly things — how He may please his wife—"
+        },
+        {
+          "v": 34,
+          "kjv": "There is difference also between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please her husband.",
+          "modern": "and His interests are divided. The unmarried woman or virgin is concerned about the things of the Lord, to be holy in body and spirit. But the married woman is concerned about worldly things — how she may please her husband."
+        },
+        {
+          "v": 35,
+          "kjv": "And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.",
+          "modern": "I am saying this for Your own benefit, not to put any restriction on You, but to promote what is right and to help You give Your undivided attention to the Lord."
+        },
+        {
+          "v": 36,
+          "kjv": "But if any man think that he behaveth himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.",
+          "modern": "If any man thinks He is behaving improperly toward His virgin, if she is past the flower of her age, and need so requires, let Him do as He will — he does not sin: let them marry."
+        },
+        {
+          "v": 37,
+          "kjv": "Nevertheless he that standeth stedfast in his heart, having no necessity, but hath power over his own will, and hath so decreed in his heart that he will keep his virgin, doeth well.",
+          "modern": "But the man who stands firm in his resolve — who is under no compulsion but has control over his own desire and has made up his mind to keep her as his fiancée — does well."
+        },
+        {
+          "v": 38,
+          "kjv": "So then he that giveth her in marriage doeth well; but he that giveth her not in marriage doeth better.",
+          "modern": "So then, he who marries his fiancée does well, and he who does not marry does even better."
+        },
+        {
+          "v": 39,
+          "kjv": "The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord.",
+          "modern": "A wife is bound to her husband as long as he lives. But if her husband dies, she is free to marry anyone she wishes, but only in the Lord."
+        },
+        {
+          "v": 40,
+          "kjv": "But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.",
+          "modern": "In my judgment, she is happier if she remains unmarried. And I think that I too have the Spirit of God."
+        }
+      ],
+      "summary": "Paul addresses questions about marriage, teaching that each man should have his own wife and each woman her own husband, and that the married should not seek to be loosed. He counsels the unmarried and widows that it is good to remain single as he is, but if they cannot exercise self-control, it is better to marry than to burn."
+    },
+    {
+      "num": 8,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.",
+          "modern": "Now concerning food offered to idols: we know that \"we all possess knowledge.\" Knowledge puffs up, but charity builds up."
+        },
+        {
+          "v": 2,
+          "kjv": "And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.",
+          "modern": "If anyone thinks he knows something, he does not yet know it as He ought to know it."
+        },
+        {
+          "v": 3,
+          "kjv": "But if any man love God, the same is known of him.",
+          "modern": "But if anyone loves God, He is known by God."
+        },
+        {
+          "v": 4,
+          "kjv": "As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one.",
+          "modern": "So then, about eating food sacrificed to idols: we know that an idol is nothing in the world and that there is no God but one."
+        },
+        {
+          "v": 5,
+          "kjv": "For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)",
+          "modern": "For even if there are so-called gods, whether in heaven or on earth — and there are many such gods and lords—"
+        },
+        {
+          "v": 6,
+          "kjv": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.",
+          "modern": "yet for us there is one God, the Father, from whom all things came and for whom we exist. And there is one Lord, Jesus Christ, through whom all things were made and through whom we exist."
+        },
+        {
+          "v": 7,
+          "kjv": "Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled.",
+          "modern": "But not everyone possesses this knowledge. Some people, still accustomed to idols, eat such food as if it were really sacrificed to an idol, and their weak conscience is defiled."
+        },
+        {
+          "v": 8,
+          "kjv": "But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.",
+          "modern": "Food does not bring us near to God — we are no worse if we do not eat, and no better if we do."
+        },
+        {
+          "v": 9,
+          "kjv": "But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.",
+          "modern": "Be careful, however, that Your freedom does not become a stumbling block to the weak."
+        },
+        {
+          "v": 10,
+          "kjv": "For if any man see thee which hast knowledge sit at meat in the idol's temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;",
+          "modern": "For if someone with a weak conscience sees you, who have knowledge, eating in an idol's temple, will He not be encouraged to eat what is sacrificed to idols?"
+        },
+        {
+          "v": 11,
+          "kjv": "And through thy knowledge shall the weak brother perish, for whom Christ died?",
+          "modern": "So this weak brother, for whom Christ died, is destroyed by Your knowledge."
+        },
+        {
+          "v": 12,
+          "kjv": "But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.",
+          "modern": "When You sin against Your brothers in this way and wound their weak conscience, You sin against Christ."
+        },
+        {
+          "v": 13,
+          "kjv": "Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.",
+          "modern": "Therefore, if what I eat causes my brother to fall, I will never eat meat again, rather than cause my brother to stumble."
+        }
+      ],
+      "summary": "Paul addresses food offered to idols, teaching that an idol is nothing and that there is one God and one Lord Jesus Christ. He warns that knowledge puffs up but charity builds up, and that believers must be careful not to use their liberty in a way that causes a weaker brother to stumble."
+    },
+    {
+      "num": 9,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?",
+          "modern": "Am I not free? Am I not an apostle? Have I not seen Jesus Christ our Lord? Are You not my work in the Lord?"
+        },
+        {
+          "v": 2,
+          "kjv": "If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.",
+          "modern": "Even if I am not an apostle to others, I certainly am to You! For You are the seal of my apostleship in the Lord."
+        },
+        {
+          "v": 3,
+          "kjv": "Mine answer to them that do examine me is this,",
+          "modern": "This is my defense to those who would examine me:"
+        },
+        {
+          "v": 4,
+          "kjv": "Have we not power to eat and to drink?",
+          "modern": "Do we not have the right to eat and to drink?"
+        },
+        {
+          "v": 5,
+          "kjv": "Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?",
+          "modern": "Do we not have the right to take a believing wife along with us, as do the other apostles and the Lord's brothers and Cephas?"
+        },
+        {
+          "v": 6,
+          "kjv": "Or I only and Barnabas, have not we power to forbear working?",
+          "modern": "Or is it only I and Barnabas who have no right to stop working for a living?"
+        },
+        {
+          "v": 7,
+          "kjv": "Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?",
+          "modern": "Who serves as a soldier at his own expense? Who plants a vineyard and does not eat its fruit? Who tends a flock and does not drink the milk from the flock?"
+        },
+        {
+          "v": 8,
+          "kjv": "Say I these things as a man? or saith not the law the same also?",
+          "modern": "Do I say this on human authority? Does not the law also say the same?"
+        },
+        {
+          "v": 9,
+          "kjv": "For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?",
+          "modern": "For in the law of Moses it is written: \"Do not muzzle an ox while it is treading out the grain.\" Is it about oxen that God is concerned?"
+        },
+        {
+          "v": 10,
+          "kjv": "Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.",
+          "modern": "Surely He says this for our sake, doesn't He? Yes, it was written for us, because the one who plows and the one who threshes should both work in the hope of sharing in the harvest."
+        },
+        {
+          "v": 11,
+          "kjv": "If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?",
+          "modern": "If we sowed spiritual seed among you, is it too much to reap a material harvest from you?"
+        },
+        {
+          "v": 12,
+          "kjv": "If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.",
+          "modern": "If others exercise this right over You, should we not even more? But we did not use this right. On the contrary, we endure everything so as not to put any obstacle in the way of the gospel of Christ."
+        },
+        {
+          "v": 13,
+          "kjv": "Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?",
+          "modern": "Do You not know that those who work in the temple get their food from the temple, and those who serve at the altar share in the offerings of the altar?"
+        },
+        {
+          "v": 14,
+          "kjv": "Even so hath the Lord ordained that they which preach the gospel should live of the gospel.",
+          "modern": "In the same way, the Lord has commanded that those who preach the gospel should receive their living from the gospel."
+        },
+        {
+          "v": 15,
+          "kjv": "But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.",
+          "modern": "But I have not used any of these rights. And I am not writing this to get such treatment. I would rather die than have anyone deprive me of this boast."
+        },
+        {
+          "v": 16,
+          "kjv": "For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!",
+          "modern": "For if I preach the gospel, I have no reason to boast, since I am compelled to preach it. Woe to me if I do not preach the gospel!"
+        },
+        {
+          "v": 17,
+          "kjv": "For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.",
+          "modern": "If I do this voluntarily, I have a reward. But if not voluntarily, I am still entrusted with a stewardship."
+        },
+        {
+          "v": 18,
+          "kjv": "What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.",
+          "modern": "What then is my reward? That when I preach the gospel I may offer it free of charge, and not make full use of my rights in the gospel."
+        },
+        {
+          "v": 19,
+          "kjv": "For though I be free from all men, yet have I made myself servant unto all, that I might gain the more.",
+          "modern": "Though I am free from everyone, I have made myself a servant to all, that I might win more of them."
+        },
+        {
+          "v": 20,
+          "kjv": "And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;",
+          "modern": "To the Jews I became like a Jew in order to win the Jews. To those under the law I became like one under the law, so I might win those under the law."
+        },
+        {
+          "v": 21,
+          "kjv": "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.",
+          "modern": "To those outside the law I became like one outside the law — not being outside God's law but inside Christ's law — in order to win those outside the law."
+        },
+        {
+          "v": 22,
+          "kjv": "To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.",
+          "modern": "To the weak I became weak, to win the weak. I have become all things to all people so that by all possible means I might save some."
+        },
+        {
+          "v": 23,
+          "kjv": "And this I do for the gospel's sake, that I might be partaker thereof with you.",
+          "modern": "I do all this for the sake of the gospel, so that I may share in its blessings."
+        },
+        {
+          "v": 24,
+          "kjv": "Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.",
+          "modern": "Do You not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize."
+        },
+        {
+          "v": 25,
+          "kjv": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.",
+          "modern": "Everyone who competes for the prize is temperate in all things. They do it to obtain a corruptible crown, but we an incorruptible."
+        },
+        {
+          "v": 26,
+          "kjv": "I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:",
+          "modern": "Therefore I do not run aimlessly; I do not fight like a man beating the air."
+        },
+        {
+          "v": 27,
+          "kjv": "But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.",
+          "modern": "No, I beat my body and make it my slave, so that after preaching to others, I myself will not be disqualified for the prize."
+        }
+      ],
+      "summary": "Paul defends his apostleship and his right to financial support from those he serves, though he has not used that right so as not to hinder the gospel. He declares that he makes himself servant to all in order to win more, and disciplines his body like an athlete so that after preaching to others he himself is not disqualified."
+    },
+    {
+      "num": 10,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;",
+          "modern": "I do not want You to be unaware, brothers, that our fathers were all under the cloud and all passed through the sea."
+        },
+        {
+          "v": 2,
+          "kjv": "And were all baptized unto Moses in the cloud and in the sea;",
+          "modern": "They were all baptized into Moses in the cloud and in the sea."
+        },
+        {
+          "v": 3,
+          "kjv": "And did all eat the same spiritual meat;",
+          "modern": "They all ate the same spiritual food,"
+        },
+        {
+          "v": 4,
+          "kjv": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.",
+          "modern": "and all drank the same spiritual drink. They drank from the spiritual Rock that followed them, and that Rock was Christ."
+        },
+        {
+          "v": 5,
+          "kjv": "But with many of them God was not well pleased: for they were overthrown in the wilderness.",
+          "modern": "Nevertheless, God was not pleased with most of them, for they were struck down in the wilderness."
+        },
+        {
+          "v": 6,
+          "kjv": "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.",
+          "modern": "Now these things happened as examples for us, so that we would not crave evil things as they did."
+        },
+        {
+          "v": 7,
+          "kjv": "Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.",
+          "modern": "Do not become idolaters, as some of them were. As it is written: \"The people sat down to eat and drink and rose up to play.\""
+        },
+        {
+          "v": 8,
+          "kjv": "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.",
+          "modern": "We must not commit sexual immorality, as some of them did — and in one day twenty-three thousand of them fell."
+        },
+        {
+          "v": 9,
+          "kjv": "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.",
+          "modern": "We must not test Christ, as some of them did — and were killed by snakes."
+        },
+        {
+          "v": 10,
+          "kjv": "Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.",
+          "modern": "And do not grumble, as some of them did — and were killed by the destroying angel."
+        },
+        {
+          "v": 11,
+          "kjv": "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.",
+          "modern": "These things happened to them as examples and were written for our admonition, on whom the ends of the world are come."
+        },
+        {
+          "v": 12,
+          "kjv": "Wherefore let him that thinketh he standeth take heed lest he fall.",
+          "modern": "So if You think You are standing firm, be careful that You do not fall."
+        },
+        {
+          "v": 13,
+          "kjv": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+          "modern": "No temptation has overtaken You except what is common to man. God is faithful — He will not let You be tempted beyond what You can bear. With the temptation He will also provide a way of escape, so that You may be able to endure it."
+        },
+        {
+          "v": 14,
+          "kjv": "Wherefore, my dearly beloved, flee from idolatry.",
+          "modern": "Therefore, my dear friends, flee from idolatry."
+        },
+        {
+          "v": 15,
+          "kjv": "I speak as to wise men; judge ye what I say.",
+          "modern": "I speak to sensible people — judge for yourselves what I say."
+        },
+        {
+          "v": 16,
+          "kjv": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?",
+          "modern": "The cup of blessing that we bless — is it not a participation in the blood of Christ? The bread that we break — is it not a participation in the body of Christ?"
+        },
+        {
+          "v": 17,
+          "kjv": "For we being many are one bread, and one body: for we are all partakers of that one bread.",
+          "modern": "Because there is one bread, we who are many are one body, for we all partake of the one bread."
+        },
+        {
+          "v": 18,
+          "kjv": "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?",
+          "modern": "Consider the people of Israel: do not those who eat the sacrifices participate in the altar?"
+        },
+        {
+          "v": 19,
+          "kjv": "What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?",
+          "modern": "What am I saying then? That food sacrificed to an idol is anything, or that an idol is anything?"
+        },
+        {
+          "v": 20,
+          "kjv": "But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.",
+          "modern": "No, I am saying that what pagans sacrifice, they sacrifice to demons and not to God. I do not want You to be participants with demons."
+        },
+        {
+          "v": 21,
+          "kjv": "Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.",
+          "modern": "You cannot drink the cup of the Lord and the cup of demons. You cannot partake of the Lord's table and the table of demons."
+        },
+        {
+          "v": 22,
+          "kjv": "Do we provoke the Lord to jealousy? are we stronger than he?",
+          "modern": "Are we trying to provoke the Lord to jealousy? Are we stronger than He?"
+        },
+        {
+          "v": 23,
+          "kjv": "All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.",
+          "modern": "\"All things are lawful,\" but not all things are beneficial. \"All things are lawful,\" but not all things build up."
+        },
+        {
+          "v": 24,
+          "kjv": "Let no man seek his own, but every man another's wealth.",
+          "modern": "Let no one seek his own good, but the good of his neighbor."
+        },
+        {
+          "v": 25,
+          "kjv": "Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:",
+          "modern": "Eat whatever is sold in the market without raising any question on the grounds of conscience."
+        },
+        {
+          "v": 26,
+          "kjv": "For the earth is the Lord's, and the fulness thereof.",
+          "modern": "\"For the earth is the Lord's, and everything in it.\""
+        },
+        {
+          "v": 27,
+          "kjv": "If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.",
+          "modern": "If an unbeliever invites You to a meal and You want to go, eat whatever is placed before You without raising questions of conscience."
+        },
+        {
+          "v": 28,
+          "kjv": "But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord's, and the fulness thereof:",
+          "modern": "But if someone says to you, \"This has been offered in sacrifice,\" then do not eat it, both for the sake of the one who told you and for the sake of conscience."
+        },
+        {
+          "v": 29,
+          "kjv": "Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?",
+          "modern": "I mean the other person's conscience, not Your own. For why should my freedom be judged by another's conscience?"
+        },
+        {
+          "v": 30,
+          "kjv": "For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?",
+          "modern": "If I take part in a meal with thankfulness, why am I condemned for something I give thanks for?"
+        },
+        {
+          "v": 31,
+          "kjv": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+          "modern": "So whether You eat or drink or whatever You do, do it all to the glory of God."
+        },
+        {
+          "v": 32,
+          "kjv": "Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:",
+          "modern": "Give no offense to Jews or to Greeks or to the church of God—"
+        },
+        {
+          "v": 33,
+          "kjv": "Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.",
+          "modern": "just as I try to please everyone in everything I do. I do not seek my own good but the good of many, so that they may be saved."
+        }
+      ],
+      "summary": "Paul warns that Israel's failures in the wilderness were written for our example, and urges them to flee from idolatry. He teaches that the cup of blessing and the bread are a communion in the blood and body of Christ, and that believers cannot partake of the Lord's table and the table of devils. Whether they eat or drink, they should do all to the glory of God."
+    },
+    {
+      "num": 11,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Be ye followers of me, even as I also am of Christ.",
+          "modern": "Follow my example, as I follow the example of Christ."
+        },
+        {
+          "v": 2,
+          "kjv": "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you.",
+          "modern": "I praise You for remembering me in everything and for holding to the traditions just as I passed them on to You."
+        },
+        {
+          "v": 3,
+          "kjv": "But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.",
+          "modern": "I want You to know that the head of every man is Christ, the head of a wife is her husband, and the head of Christ is God."
+        },
+        {
+          "v": 4,
+          "kjv": "Every man praying or prophesying, having his head covered, dishonoureth his head.",
+          "modern": "Every man who prays or prophesies with his head covered dishonors His head."
+        },
+        {
+          "v": 5,
+          "kjv": "But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven.",
+          "modern": "Every woman who prays or prophesies with her head uncovered dishonors her head — it is just as if she had her head shaved."
+        },
+        {
+          "v": 6,
+          "kjv": "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.",
+          "modern": "If a woman does not cover her head, she should have her hair cut off. But if it is shameful for a woman to have her hair cut or her head shaved, she should cover her head."
+        },
+        {
+          "v": 7,
+          "kjv": "For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.",
+          "modern": "A man ought not to cover his head, since he is the image and glory of God. But the woman is the glory of the man."
+        },
+        {
+          "v": 8,
+          "kjv": "For the man is not of the woman; but the woman of the man.",
+          "modern": "For man did not come from woman, but woman from man."
+        },
+        {
+          "v": 9,
+          "kjv": "Neither was the man created for the woman; but the woman for the man.",
+          "modern": "Neither was man created for woman, but woman for man."
+        },
+        {
+          "v": 10,
+          "kjv": "For this cause ought the woman to have power on her head because of the angels.",
+          "modern": "For this reason a woman ought to have power on her head, because of the angels."
+        },
+        {
+          "v": 11,
+          "kjv": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.",
+          "modern": "Nevertheless, in the Lord woman is not independent of man, nor is man independent of woman."
+        },
+        {
+          "v": 12,
+          "kjv": "For as the woman is of the man, even so is the man also by the woman; but all things of God.",
+          "modern": "For as woman was made from man, so man is now born of woman. And everything comes from God."
+        },
+        {
+          "v": 13,
+          "kjv": "Judge in yourselves: is it comely that a woman pray unto God uncovered?",
+          "modern": "Judge for yourselves: is it proper for a woman to pray to God with her head uncovered?"
+        },
+        {
+          "v": 14,
+          "kjv": "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?",
+          "modern": "Does not nature itself teach you that if a man wears his hair long, it is a disgrace to him,"
+        },
+        {
+          "v": 15,
+          "kjv": "But if a woman have long hair, it is a glory to her: for her hair is given her for a covering.",
+          "modern": "but if a woman has long hair, it is her glory? For her hair is given to her as a covering."
+        },
+        {
+          "v": 16,
+          "kjv": "But if any man seem to be contentious, we have no such custom, neither the churches of God.",
+          "modern": "If anyone wants to be contentious about this, we have no such practice — nor do the churches of God."
+        },
+        {
+          "v": 17,
+          "kjv": "Now in this that I declare unto you I praise you not, that ye come together not for the better, but for the worse.",
+          "modern": "In the following instructions I do not praise you, because your meetings do more harm than good."
+        },
+        {
+          "v": 18,
+          "kjv": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.",
+          "modern": "First of all, when you come together as a church, I hear that divisions exist among you, and I partly believe it."
+        },
+        {
+          "v": 19,
+          "kjv": "For there must be also heresies among you, that they which are approved may be made manifest among you.",
+          "modern": "No doubt there have to be differences among you to show which of you are approved."
+        },
+        {
+          "v": 20,
+          "kjv": "When ye come together therefore into one place, this is not to eat the Lord's supper.",
+          "modern": "When you come together in one place, it is not really to eat the Lord's Supper."
+        },
+        {
+          "v": 21,
+          "kjv": "For in eating every one taketh before other his own supper: and one is hungry, and another is drunken.",
+          "modern": "For when you eat, each of you goes ahead without waiting for anyone else. One remains hungry while another gets drunk."
+        },
+        {
+          "v": 22,
+          "kjv": "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not.",
+          "modern": "Don't you have homes to eat and drink in? Or do you despise the church of God and humiliate those who have nothing? What shall I say to you? Shall I praise you? Certainly not!"
+        },
+        {
+          "v": 23,
+          "kjv": "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:",
+          "modern": "For I received from the Lord what I also passed on to You: the Lord Jesus, on the night He was betrayed, took bread,"
+        },
+        {
+          "v": 24,
+          "kjv": "And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.",
+          "modern": "and when He had given thanks, He broke it and said: \"Take, eat — this is My body which is broken for You. Do this in remembrance of Me.\""
+        },
+        {
+          "v": 25,
+          "kjv": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.",
+          "modern": "In the same way, after supper He took the cup, saying: \"This cup is the new testament in My blood. Do this, as often as You drink it, in remembrance of Me.\""
+        },
+        {
+          "v": 26,
+          "kjv": "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come.",
+          "modern": "For as often as You eat this bread and drink this cup, You proclaim the Lord's death until He comes."
+        },
+        {
+          "v": 27,
+          "kjv": "Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.",
+          "modern": "Therefore whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord."
+        },
+        {
+          "v": 28,
+          "kjv": "But let a man examine himself, and so let him eat of that bread, and drink of that cup.",
+          "modern": "A person should examine Himself before eating the bread and drinking the cup."
+        },
+        {
+          "v": 29,
+          "kjv": "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body.",
+          "modern": "For anyone who eats and drinks without discerning the Lord's body eats and drinks damnation to Himself."
+        },
+        {
+          "v": 30,
+          "kjv": "For this cause many are weak and sickly among you, and many sleep.",
+          "modern": "That is why many among You are weak and sick, and a number of You have fallen asleep."
+        },
+        {
+          "v": 31,
+          "kjv": "For if we would judge ourselves, we should not be judged.",
+          "modern": "But if we judged ourselves properly, we would not come under judgment."
+        },
+        {
+          "v": 32,
+          "kjv": "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.",
+          "modern": "When we are judged by the Lord, we are disciplined so that we may not be condemned along with the world."
+        },
+        {
+          "v": 33,
+          "kjv": "Wherefore, my brethren, when ye come together to eat, tarry one for another.",
+          "modern": "So then, my brothers, when You come together to eat, wait for one another."
+        },
+        {
+          "v": 34,
+          "kjv": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.",
+          "modern": "If anyone is hungry, he should eat at home, so that when You meet together You do not come under judgment. The other matters I will set in order when I come."
+        }
+      ],
+      "summary": "Paul teaches on head coverings, declaring that the head of every man is Christ, the head of the woman is the man, and the head of Christ is God. He rebukes the Corinthians for their divisions at the Lord's supper and delivers the institution of communion, warning that whoever eats and drinks unworthily eats and drinks damnation to himself."
+    },
+    {
+      "num": 12,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Now concerning spiritual gifts, brethren, I would not have you ignorant.",
+          "modern": "Now concerning spiritual gifts, brothers, I do not want You to be unaware."
+        },
+        {
+          "v": 2,
+          "kjv": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.",
+          "modern": "You know that when You were Gentiles, You were led astray to mute idols, however You were led."
+        },
+        {
+          "v": 3,
+          "kjv": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost.",
+          "modern": "Therefore I want You to know that no one speaking by the Spirit of God says \"Jesus is cursed,\" and no one can say \"Jesus is Lord\" except by the Holy Ghost."
+        },
+        {
+          "v": 4,
+          "kjv": "Now there are diversities of gifts, but the same Spirit.",
+          "modern": "There are different kinds of gifts, but the same Spirit."
+        },
+        {
+          "v": 5,
+          "kjv": "And there are differences of administrations, but the same Lord.",
+          "modern": "There are different kinds of service, but the same Lord."
+        },
+        {
+          "v": 6,
+          "kjv": "And there are diversities of operations, but it is the same God which worketh all in all.",
+          "modern": "There are different kinds of working, but in all of them and in everyone it is the same God at work."
+        },
+        {
+          "v": 7,
+          "kjv": "But the manifestation of the Spirit is given to every man to profit withal.",
+          "modern": "Now to each one the manifestation of the Spirit is given for the common good."
+        },
+        {
+          "v": 8,
+          "kjv": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;",
+          "modern": "To one is given through the Spirit a word of wisdom, to another the word of knowledge by the same Spirit,"
+        },
+        {
+          "v": 9,
+          "kjv": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+          "modern": "to another faith by the same Spirit, to another gifts of healing by the one Spirit,"
+        },
+        {
+          "v": 10,
+          "kjv": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+          "modern": "to another the working of miracles, to another prophecy, to another the ability to distinguish between spirits, to another various kinds of tongues, to another the interpretation of tongues."
+        },
+        {
+          "v": 11,
+          "kjv": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.",
+          "modern": "All these are the work of one and the same Spirit, and He gives them to each one just as he determines."
+        },
+        {
+          "v": 12,
+          "kjv": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.",
+          "modern": "Just as a body, though one, has many parts, and all the parts, though many, form one body — so it is with Christ."
+        },
+        {
+          "v": 13,
+          "kjv": "For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.",
+          "modern": "For we were all baptized by one Spirit into one body — whether Jews or Greeks, whether slaves or free — and we were all given the one Spirit to drink."
+        },
+        {
+          "v": 14,
+          "kjv": "For the body is not one member, but many.",
+          "modern": "Now the body is not made up of one part but of many."
+        },
+        {
+          "v": 15,
+          "kjv": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?",
+          "modern": "If the foot should say, \"Because I am not a hand, I do not belong to the body,\" it would not for that reason stop being part of the body."
+        },
+        {
+          "v": 16,
+          "kjv": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?",
+          "modern": "And if the ear should say, \"Because I am not an eye, I do not belong to the body,\" it would not for that reason stop being part of the body."
+        },
+        {
+          "v": 17,
+          "kjv": "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?",
+          "modern": "If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?"
+        },
+        {
+          "v": 18,
+          "kjv": "But now hath God set the members every one of them in the body, as it hath pleased him.",
+          "modern": "But in fact God has placed the parts in the body, every one of them, just as he wanted them to be."
+        },
+        {
+          "v": 19,
+          "kjv": "And if they were all one member, where were the body?",
+          "modern": "If they were all one part, where would the body be?"
+        },
+        {
+          "v": 20,
+          "kjv": "But now are they many members, yet but one body.",
+          "modern": "As it is, there are many parts, but one body."
+        },
+        {
+          "v": 21,
+          "kjv": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.",
+          "modern": "The eye cannot say to the hand, \"I don't need You!\" And the head cannot say to the feet, \"I don't need You!\""
+        },
+        {
+          "v": 22,
+          "kjv": "Nay, much more those members of the body, which seem to be more feeble, are necessary:",
+          "modern": "On the contrary, those parts of the body that seem to be weaker are all the more necessary,"
+        },
+        {
+          "v": 23,
+          "kjv": "And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.",
+          "modern": "and those we think less honorable we clothe with special honor. Our unpresentable parts are treated with special modesty,"
+        },
+        {
+          "v": 24,
+          "kjv": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:",
+          "modern": "while our presentable parts have no such need. But God has put the body together, giving greater honor to the parts that lack it,"
+        },
+        {
+          "v": 25,
+          "kjv": "That there should be no schism in the body; but that the members should have the same care one for another.",
+          "modern": "so that there should be no division in the body, but that its parts should have equal concern for each other."
+        },
+        {
+          "v": 26,
+          "kjv": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.",
+          "modern": "If one part suffers, every part suffers with it. If one part is honored, every part rejoices with it."
+        },
+        {
+          "v": 27,
+          "kjv": "Now ye are the body of Christ, and members in particular.",
+          "modern": "Now You are the body of Christ, and each one of you is a part of it."
+        },
+        {
+          "v": 28,
+          "kjv": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.",
+          "modern": "And God has placed in the church first of all apostles, second prophets, third teachers, then miracles, then gifts of healing, helpful deeds, gifts of leadership, and different kinds of tongues."
+        },
+        {
+          "v": 29,
+          "kjv": "Are all apostles? are all prophets? are all teachers? are all workers of miracles?",
+          "modern": "Are all apostles? Are all prophets? Are all teachers? Do all work miracles?"
+        },
+        {
+          "v": 30,
+          "kjv": "Have all the gifts of healing? do all speak with tongues? do all interpret?",
+          "modern": "Do all have gifts of healing? Do all speak in tongues? Do all interpret?"
+        },
+        {
+          "v": 31,
+          "kjv": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way.",
+          "modern": "But eagerly desire the greater gifts. And now I will show You the most excellent way."
+        }
+      ],
+      "summary": "Paul teaches that there are diversities of gifts but the same Spirit, and that the Spirit distributes to each one individually as He wills. He uses the human body to illustrate that every member is necessary — the eye cannot say to the hand, \"I have no need of you\" — and that God has set the members in the body as it pleases Him."
+    },
+    {
+      "num": 13,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+          "modern": "If I speak in the tongues of men and of angels but have not charity, I am only a resounding gong or a clanging cymbal."
+        },
+        {
+          "v": 2,
+          "kjv": "And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+          "modern": "If I have the gift of prophecy and can understand all mysteries and all knowledge, and if I have faith that can move mountains, but have not charity, I am nothing."
+        },
+        {
+          "v": 3,
+          "kjv": "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+          "modern": "If I give all I possess to the poor and give my body to be burned, but have not charity, I gain nothing."
+        },
+        {
+          "v": 4,
+          "kjv": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+          "modern": "Charity is patient. Charity is kind. It does not envy. It does not boast. It is not proud."
+        },
+        {
+          "v": 5,
+          "kjv": "Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;",
+          "modern": "It does not behave rudely. It is not self-seeking. It is not easily angered. It keeps no record of wrongs."
+        },
+        {
+          "v": 6,
+          "kjv": "Rejoiceth not in iniquity, but rejoiceth in the truth;",
+          "modern": "It does not delight in evil but rejoices with the truth."
+        },
+        {
+          "v": 7,
+          "kjv": "Beareth all things, believeth all things, hopeth all things, endureth all things.",
+          "modern": "It bears all things, believes all things, hopes all things, endures all things."
+        },
+        {
+          "v": 8,
+          "kjv": "Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.",
+          "modern": "Charity never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled; where there is knowledge, it will pass away."
+        },
+        {
+          "v": 9,
+          "kjv": "For we know in part, and we prophesy in part.",
+          "modern": "For we know in part and we prophesy in part,"
+        },
+        {
+          "v": 10,
+          "kjv": "But when that which is perfect is come, then that which is in part shall be done away.",
+          "modern": "but when the perfect comes, the partial will be done away."
+        },
+        {
+          "v": 11,
+          "kjv": "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.",
+          "modern": "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put childish ways behind me."
+        },
+        {
+          "v": 12,
+          "kjv": "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+          "modern": "Now we see through a glass, darkly — but then face to face. Now I know in part; but then I shall know fully, even as I am fully known."
+        },
+        {
+          "v": 13,
+          "kjv": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+          "modern": "And now these three remain: faith, hope, and charity. But the greatest of these is charity."
+        }
+      ],
+      "summary": "Paul declares that without charity, all gifts are nothing — tongues, prophecy, knowledge, and even faith that moves mountains amount to nothing without love. Charity suffers long and is kind, does not envy or boast, bears all things and endures all things. Prophecies, tongues, and knowledge will pass away, but faith, hope, and charity abide — and the greatest of these is charity."
+    },
+    {
+      "num": 14,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.",
+          "modern": "Pursue charity, and eagerly desire spiritual gifts, especially prophecy."
+        },
+        {
+          "v": 2,
+          "kjv": "For he that speaketh in an unknown tongue speaketh not unto men, but unto God: for no man understandeth him; howbeit in the spirit he speaketh mysteries.",
+          "modern": "For anyone who speaks in a tongue does not speak to men but to God. No one understands him — he utters mysteries in the Spirit."
+        },
+        {
+          "v": 3,
+          "kjv": "But he that prophesieth speaketh unto men to edification, and exhortation, and comfort.",
+          "modern": "But the one who prophesies speaks to people for their strengthening, encouragement, and comfort."
+        },
+        {
+          "v": 4,
+          "kjv": "He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church.",
+          "modern": "The one who speaks in a tongue builds himself up, but the one who prophesies builds up the church."
+        },
+        {
+          "v": 5,
+          "kjv": "I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.",
+          "modern": "I would like every one of you to speak in tongues, but I would rather have You prophesy. The one who prophesies is greater than the one who speaks in tongues, unless he also interprets, so that the church may be built up."
+        },
+        {
+          "v": 6,
+          "kjv": "Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?",
+          "modern": "Now, brothers, if I come to You speaking in tongues, what good will I be to You unless I bring some revelation or knowledge or prophecy or teaching?"
+        },
+        {
+          "v": 7,
+          "kjv": "And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?",
+          "modern": "Even lifeless instruments, like the flute or harp, must give distinct notes — otherwise how will anyone know what is being played?"
+        },
+        {
+          "v": 8,
+          "kjv": "For if the trumpet give an uncertain sound, who shall prepare himself to the battle?",
+          "modern": "If the trumpet does not sound a clear call, who will get ready for battle?"
+        },
+        {
+          "v": 9,
+          "kjv": "So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air.",
+          "modern": "So it is with You. Unless You speak words that can be understood, how will anyone know what you are saying? You will just be speaking into the air."
+        },
+        {
+          "v": 10,
+          "kjv": "There are, it may be, so many kinds of voices in the world, and none of them is without signification.",
+          "modern": "Undoubtedly there are all sorts of languages in the world, yet none of them is without meaning."
+        },
+        {
+          "v": 11,
+          "kjv": "Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh shall be a barbarian unto me.",
+          "modern": "If then I do not understand the meaning of what someone is saying, I will be a foreigner to the speaker and the speaker will be a foreigner to me."
+        },
+        {
+          "v": 12,
+          "kjv": "Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church.",
+          "modern": "So it is with You. Since You are eager for spiritual gifts, try to excel in those that build up the church."
+        },
+        {
+          "v": 13,
+          "kjv": "Wherefore let him that speaketh in an unknown tongue pray that he may interpret.",
+          "modern": "For this reason, the one who speaks in a tongue should pray that he may interpret what He says."
+        },
+        {
+          "v": 14,
+          "kjv": "For if I pray in an unknown tongue, my spirit prayeth, but my understanding is unfruitful.",
+          "modern": "If I pray in a tongue, my spirit prays, but my mind is unfruitful."
+        },
+        {
+          "v": 15,
+          "kjv": "What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.",
+          "modern": "So what shall I do? I will pray with my spirit, but I will also pray with my mind. I will sing with my spirit, but I will also sing with my mind."
+        },
+        {
+          "v": 16,
+          "kjv": "Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?",
+          "modern": "Otherwise, if You are praising God in the spirit, how can someone who does not understand say \"Amen\" to your thanksgiving? He does not know what You are saying."
+        },
+        {
+          "v": 17,
+          "kjv": "For thou verily givest thanks well, but the other is not edified.",
+          "modern": "You may be giving thanks very well, but the other person is not built up."
+        },
+        {
+          "v": 18,
+          "kjv": "I thank my God, I speak with tongues more than ye all:",
+          "modern": "I thank God that I speak in tongues more than all of You."
+        },
+        {
+          "v": 19,
+          "kjv": "Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.",
+          "modern": "But in the church I would rather speak five words with my mind to instruct others than ten thousand words in a tongue."
+        },
+        {
+          "v": 20,
+          "kjv": "Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men.",
+          "modern": "Brothers, do not be childish in Your thinking. Be infants in evil, but in Your thinking be mature."
+        },
+        {
+          "v": 21,
+          "kjv": "In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.",
+          "modern": "In the law it is written: \"With people of strange tongues and other lips I will speak to this people, and even then they will not hear Me, says the Lord.\""
+        },
+        {
+          "v": 22,
+          "kjv": "Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe.",
+          "modern": "So then tongues are a sign, not for believers but for unbelievers. Prophecy, however, is for believers, not unbelievers."
+        },
+        {
+          "v": 23,
+          "kjv": "If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?",
+          "modern": "So if the whole church comes together and everyone speaks in tongues, and some who do not understand or some unbelievers come in, will they not say that You are out of Your minds?"
+        },
+        {
+          "v": 24,
+          "kjv": "But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:",
+          "modern": "But if an unbeliever or someone who does not understand comes in while everyone is prophesying, He will be convicted by all and judged by all."
+        },
+        {
+          "v": 25,
+          "kjv": "And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.",
+          "modern": "The secrets of His heart will be revealed. He will fall down and worship God, declaring, \"God is truly among You.\""
+        },
+        {
+          "v": 26,
+          "kjv": "How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.",
+          "modern": "What then shall we say, brothers? When You come together, each one has a hymn, a teaching, a revelation, a tongue, or an interpretation. Everything must be done to build up the church."
+        },
+        {
+          "v": 27,
+          "kjv": "If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret.",
+          "modern": "If anyone speaks in a tongue, two — or at most three — should speak, one at a time, and someone must interpret."
+        },
+        {
+          "v": 28,
+          "kjv": "But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.",
+          "modern": "If there is no interpreter, the speaker should keep quiet in the church and speak to Himself and to God."
+        },
+        {
+          "v": 29,
+          "kjv": "Let the prophets speak two or three, and let the other judge.",
+          "modern": "Two or three prophets should speak, and the others should weigh carefully what is said."
+        },
+        {
+          "v": 30,
+          "kjv": "If any thing be revealed to another that sitteth by, let the first hold his peace.",
+          "modern": "And if a revelation comes to someone who is sitting down, the first speaker should stop."
+        },
+        {
+          "v": 31,
+          "kjv": "For ye may all prophesy one by one, that all may learn, and all may be comforted.",
+          "modern": "For You can all prophesy in turn so that everyone may learn and be encouraged."
+        },
+        {
+          "v": 32,
+          "kjv": "And the spirits of the prophets are subject to the prophets.",
+          "modern": "The spirits of the prophets are subject to the control of prophets."
+        },
+        {
+          "v": 33,
+          "kjv": "For God is not the author of confusion, but of peace, as in all churches of the saints.",
+          "modern": "For God is not a God of disorder but of peace — as in all the churches of the saints."
+        },
+        {
+          "v": 34,
+          "kjv": "Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law.",
+          "modern": "Let Your women keep silence in the churches, for it is not permitted to them to speak; but they are commanded to be under obedience, as also says the law."
+        },
+        {
+          "v": 35,
+          "kjv": "And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.",
+          "modern": "If they want to inquire about something, they should ask their own husbands at home. It is shameful for a woman to speak in the church."
+        },
+        {
+          "v": 36,
+          "kjv": "What? came the word of God out from you? or came it unto you only?",
+          "modern": "Did the word of God originate with You? Or are You the only people it has reached?"
+        },
+        {
+          "v": 37,
+          "kjv": "If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.",
+          "modern": "If anyone thinks he is a prophet or spiritual, let him acknowledge that what I am writing to You is the Lord's command."
+        },
+        {
+          "v": 38,
+          "kjv": "But if any man be ignorant, let him be ignorant.",
+          "modern": "If anyone ignores this, he will be ignored."
+        },
+        {
+          "v": 39,
+          "kjv": "Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.",
+          "modern": "Therefore, my brothers, be eager to prophesy, and do not forbid speaking in tongues."
+        },
+        {
+          "v": 40,
+          "kjv": "Let all things be done decently and in order.",
+          "modern": "But everything should be done in a proper and orderly way."
+        }
+      ],
+      "summary": "Paul teaches that prophecy is greater than tongues in the assembly because it edifies the church, while tongues without interpretation edify only the speaker. He instructs that all things in worship must be done decently and in order, with no more than two or three speaking in tongues, and each in turn with an interpreter."
+    },
+    {
+      "num": 15,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;",
+          "modern": "Now, brothers, I want to remind You of the gospel I preached to You, which You received and on which You have taken Your stand."
+        },
+        {
+          "v": 2,
+          "kjv": "By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.",
+          "modern": "By this gospel You are saved, if You hold firmly to the word I preached to You — otherwise You have believed in vain."
+        },
+        {
+          "v": 3,
+          "kjv": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;",
+          "modern": "For what I received I passed on to You as of first importance: that Christ died for our sins according to the scriptures,"
+        },
+        {
+          "v": 4,
+          "kjv": "And that he was buried, and that he rose again the third day according to the scriptures:",
+          "modern": "that He was buried, that He was raised on the third day according to the scriptures,"
+        },
+        {
+          "v": 5,
+          "kjv": "And that he was seen of Cephas, then of the twelve:",
+          "modern": "and that He appeared to Cephas, and then to the Twelve."
+        },
+        {
+          "v": 6,
+          "kjv": "After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.",
+          "modern": "After that, He appeared to more than five hundred brothers at the same time, most of whom are still living, though some have fallen asleep."
+        },
+        {
+          "v": 7,
+          "kjv": "After that, he was seen of James; then of all the apostles.",
+          "modern": "Then He appeared to James, then to all the apostles."
+        },
+        {
+          "v": 8,
+          "kjv": "And last of all he was seen of me also, as of one born out of due time.",
+          "modern": "Last of all He appeared to me also, as to one born out of due time."
+        },
+        {
+          "v": 9,
+          "kjv": "For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God.",
+          "modern": "For I am the least of the apostles, not fit to be called an apostle, because I persecuted the church of God."
+        },
+        {
+          "v": 10,
+          "kjv": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.",
+          "modern": "But by the grace of God I am what I am. His grace to me was not without effect. I worked harder than all of them — yet not I, but the grace of God that was with me."
+        },
+        {
+          "v": 11,
+          "kjv": "Therefore whether it were I or they, so we preach, and so ye believed.",
+          "modern": "Whether, then, it was I or they, this is what we preach, and this is what You believed."
+        },
+        {
+          "v": 12,
+          "kjv": "Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?",
+          "modern": "But if it is preached that Christ has been raised from the dead, how can some of You say that there is no resurrection of the dead?"
+        },
+        {
+          "v": 13,
+          "kjv": "But if there be no resurrection of the dead, then is Christ not risen:",
+          "modern": "If there is no resurrection of the dead, then not even Christ has been raised."
+        },
+        {
+          "v": 14,
+          "kjv": "And if Christ be not risen, then is our preaching vain, and your faith is also vain.",
+          "modern": "And if Christ has not been raised, our preaching is useless and so is Your faith."
+        },
+        {
+          "v": 15,
+          "kjv": "Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.",
+          "modern": "More than that, we are then found to be false witnesses about God, for we have testified about God that He raised Christ from the dead. But He did not raise Him if in fact the dead are not raised."
+        },
+        {
+          "v": 16,
+          "kjv": "For if the dead rise not, then is not Christ raised:",
+          "modern": "For if the dead are not raised, then Christ has not been raised either."
+        },
+        {
+          "v": 17,
+          "kjv": "And if Christ be not raised, your faith is vain; ye are yet in your sins.",
+          "modern": "And if Christ has not been raised, Your faith is futile; You are still in Your sins."
+        },
+        {
+          "v": 18,
+          "kjv": "Then they also which are fallen asleep in Christ are perished.",
+          "modern": "Then also those who have fallen asleep in Christ are lost."
+        },
+        {
+          "v": 19,
+          "kjv": "If in this life only we have hope in Christ, we are of all men most miserable.",
+          "modern": "If only for this life we have hope in Christ, we are of all people most to be pitied."
+        },
+        {
+          "v": 20,
+          "kjv": "But now is Christ risen from the dead, and become the firstfruits of them that slept.",
+          "modern": "But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep."
+        },
+        {
+          "v": 21,
+          "kjv": "For since by man came death, by man came also the resurrection of the dead.",
+          "modern": "For since death came through a man, the resurrection of the dead also comes through a man."
+        },
+        {
+          "v": 22,
+          "kjv": "For as in Adam all die, even so in Christ shall all be made alive.",
+          "modern": "For as in Adam all die, so in Christ all will be quickened."
+        },
+        {
+          "v": 23,
+          "kjv": "But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming.",
+          "modern": "But each in His own order: Christ the firstfruits, then at His coming those who belong to Christ."
+        },
+        {
+          "v": 24,
+          "kjv": "Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.",
+          "modern": "Then comes the end, when He delivers the kingdom to God the Father after destroying every rule and every authority and power."
+        },
+        {
+          "v": 25,
+          "kjv": "For he must reign, till he hath put all enemies under his feet.",
+          "modern": "For He must reign until He has put all His enemies under His feet."
+        },
+        {
+          "v": 26,
+          "kjv": "The last enemy that shall be destroyed is death.",
+          "modern": "The last enemy to be destroyed is death."
+        },
+        {
+          "v": 27,
+          "kjv": "For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.",
+          "modern": "For He has put everything under His feet. Now when it says that everything has been put under Him, it is clear that this does not include God Himself, who put everything under Christ."
+        },
+        {
+          "v": 28,
+          "kjv": "And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.",
+          "modern": "When all things have been subjected to Him, then the Son Himself will also be subject to the One who put everything under him, so that God may be all in all."
+        },
+        {
+          "v": 29,
+          "kjv": "Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?",
+          "modern": "Now if there is no resurrection, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?"
+        },
+        {
+          "v": 30,
+          "kjv": "And why stand we in jeopardy every hour?",
+          "modern": "And why do we endanger ourselves every hour?"
+        },
+        {
+          "v": 31,
+          "kjv": "I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.",
+          "modern": "I face death every day — as surely as I boast about You in Christ Jesus our Lord."
+        },
+        {
+          "v": 32,
+          "kjv": "If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.",
+          "modern": "If I fought wild beasts at Ephesus with nothing more than human motives, what have I gained? If the dead are not raised, \"Let us eat and drink, for tomorrow we die.\""
+        },
+        {
+          "v": 33,
+          "kjv": "Be not deceived: evil communications corrupt good manners.",
+          "modern": "Do not be misled: \"Bad company corrupts good character.\""
+        },
+        {
+          "v": 34,
+          "kjv": "Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.",
+          "modern": "Come back to Your senses and stop sinning. Some people are ignorant of God — I say this to Your shame."
+        },
+        {
+          "v": 35,
+          "kjv": "But some man will say, How are the dead raised up? and with what body do they come?",
+          "modern": "But someone will ask, \"How are the dead raised? With what kind of body will they come?\""
+        },
+        {
+          "v": 36,
+          "kjv": "Thou fool, that which thou sowest is not quickened, except it die:",
+          "modern": "How foolish! What You sow does not come to life unless it dies."
+        },
+        {
+          "v": 37,
+          "kjv": "And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:",
+          "modern": "When You sow, You do not plant the body that will be, but just a seed — perhaps wheat or something else."
+        },
+        {
+          "v": 38,
+          "kjv": "But God giveth it a body as it hath pleased him, and to every seed his own body.",
+          "modern": "But God gives it a body as He has determined, and to each kind of seed its own body."
+        },
+        {
+          "v": 39,
+          "kjv": "All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds.",
+          "modern": "Not all flesh is the same: people have one kind, animals have another, birds another, and fish another."
+        },
+        {
+          "v": 40,
+          "kjv": "There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.",
+          "modern": "There are heavenly bodies and earthly bodies, but the glory of the heavenly bodies is different from that of the earthly bodies."
+        },
+        {
+          "v": 41,
+          "kjv": "There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.",
+          "modern": "The sun has one kind of glory, the moon another, and the stars another. And star differs from star in glory."
+        },
+        {
+          "v": 42,
+          "kjv": "So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:",
+          "modern": "So will it be with the resurrection of the dead. What is sown is perishable; what is raised is imperishable."
+        },
+        {
+          "v": 43,
+          "kjv": "It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power:",
+          "modern": "It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power."
+        },
+        {
+          "v": 44,
+          "kjv": "It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.",
+          "modern": "It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body."
+        },
+        {
+          "v": 45,
+          "kjv": "And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.",
+          "modern": "So it is written: \"The first man Adam became a living soul.\" The last Adam became a quickening spirit."
+        },
+        {
+          "v": 46,
+          "kjv": "Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.",
+          "modern": "The spiritual did not come first, but the natural, and after that the spiritual."
+        },
+        {
+          "v": 47,
+          "kjv": "The first man is of the earth, earthy: the second man is the Lord from heaven.",
+          "modern": "The first man was from the earth — earthy. The second man is the Lord from heaven."
+        },
+        {
+          "v": 48,
+          "kjv": "As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly.",
+          "modern": "As was the man from the earth, so also are those who are of the earth. As is the Man from heaven, so also are those who are of heaven."
+        },
+        {
+          "v": 49,
+          "kjv": "And as we have borne the image of the earthy, we shall also bear the image of the heavenly.",
+          "modern": "Just as we have borne the image of the man of earth, we will also bear the image of the Man from heaven."
+        },
+        {
+          "v": 50,
+          "kjv": "Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.",
+          "modern": "I declare to you, brothers, that flesh and blood cannot inherit the kingdom of God; neither does corruption inherit incorruption."
+        },
+        {
+          "v": 51,
+          "kjv": "Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,",
+          "modern": "Listen, I tell you a mystery: we will not all sleep, but we will all be changed—"
+        },
+        {
+          "v": 52,
+          "kjv": "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.",
+          "modern": "in a moment, in the twinkling of an eye, at the last trumpet. The trumpet will sound, the dead will be raised imperishable, and we will be changed."
+        },
+        {
+          "v": 53,
+          "kjv": "For this corruptible must put on incorruption, and this mortal must put on immortality.",
+          "modern": "For this corruptible must put on incorruption, and this mortal must put on immortality."
+        },
+        {
+          "v": 54,
+          "kjv": "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.",
+          "modern": "So when this corruptible has put on incorruption, and this mortal has put on immortality, then shall come to pass the saying that is written: \"Death is swallowed up in victory.\""
+        },
+        {
+          "v": 55,
+          "kjv": "O death, where is thy sting? O grave, where is thy victory?",
+          "modern": "\"Where, O death, is your victory? Where, O death, is your sting?\""
+        },
+        {
+          "v": 56,
+          "kjv": "The sting of death is sin; and the strength of sin is the law.",
+          "modern": "The sting of death is sin, and the power of sin is the law."
+        },
+        {
+          "v": 57,
+          "kjv": "But thanks be to God, which giveth us the victory through our Lord Jesus Christ.",
+          "modern": "But thanks be to God! He gives us the victory through our Lord Jesus Christ."
+        },
+        {
+          "v": 58,
+          "kjv": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.",
+          "modern": "Therefore, my dear brothers, stand firm. Let nothing move You. Always give yourselves fully to the work of the Lord, knowing that Your labor in the Lord is not in vain."
+        }
+      ],
+      "summary": "Paul declares the gospel: that Christ died for our sins, was buried, and rose again the third day according to the scriptures, and appeared to more than five hundred brethren. He argues that if Christ is not risen then faith is vain, but now Christ is risen and become the firstfruits of them that slept. He reveals the mystery that at the last trumpet the dead shall be raised incorruptible and death shall be swallowed up in victory."
+    },
+    {
+      "num": 16,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.",
+          "modern": "Now concerning the collection for the saints: as I directed the churches of Galatia, so you also are to do."
+        },
+        {
+          "v": 2,
+          "kjv": "Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.",
+          "modern": "On the first day of every week, each of you is to put something aside and save it up, as he may prosper, so that there will be no collections when I come."
+        },
+        {
+          "v": 3,
+          "kjv": "And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.",
+          "modern": "When I arrive, I will send those whom you have approved with letters to carry your gift to Jerusalem."
+        },
+        {
+          "v": 4,
+          "kjv": "And if it be meet that I go also, they shall go with me.",
+          "modern": "If it seems worth my going also, they will go with me."
+        },
+        {
+          "v": 5,
+          "kjv": "Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.",
+          "modern": "I will visit you after passing through Macedonia, for I intend to pass through Macedonia."
+        },
+        {
+          "v": 6,
+          "kjv": "And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go.",
+          "modern": "Perhaps I will stay with you or even spend the winter, so that you can help me on my journey to wherever I go."
+        },
+        {
+          "v": 7,
+          "kjv": "For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.",
+          "modern": "I do not want to see you now just in passing. I hope to spend some time with you, if the Lord permits."
+        },
+        {
+          "v": 8,
+          "kjv": "But I will tarry at Ephesus until Pentecost.",
+          "modern": "But I will stay in Ephesus until Pentecost,"
+        },
+        {
+          "v": 9,
+          "kjv": "For a great door and effectual is opened unto me, and there are many adversaries.",
+          "modern": "for a wide and effective door has opened to me, and there are many who oppose me."
+        },
+        {
+          "v": 10,
+          "kjv": "Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do.",
+          "modern": "When Timothy comes, see to it that he is at ease among you, for he is doing the work of the Lord just as I am."
+        },
+        {
+          "v": 11,
+          "kjv": "Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.",
+          "modern": "So let no one look down on him. Send him on his way in peace so that he may return to me, for I am expecting him with the brothers."
+        },
+        {
+          "v": 12,
+          "kjv": "As touching our brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.",
+          "modern": "Now regarding our brother Apollos: I strongly urged him to visit you with the brothers, but it was not at all his will to come now. He will come when he has opportunity."
+        },
+        {
+          "v": 13,
+          "kjv": "Watch ye, stand fast in the faith, quit you like men, be strong.",
+          "modern": "Watch, stand fast in the faith, quit you like men, be strong."
+        },
+        {
+          "v": 14,
+          "kjv": "Let all your things be done with charity.",
+          "modern": "Do everything in charity."
+        },
+        {
+          "v": 15,
+          "kjv": "I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)",
+          "modern": "You know that the household of Stephanas were the firstfruits of Achaia and that they devoted themselves to the service of the saints. I urge you, brothers—"
+        },
+        {
+          "v": 16,
+          "kjv": "That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.",
+          "modern": "to submit to such men and to everyone who works and labors with them."
+        },
+        {
+          "v": 17,
+          "kjv": "I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.",
+          "modern": "I am glad about the coming of Stephanas, Fortunatus, and Achaicus, because they have supplied what was lacking from you."
+        },
+        {
+          "v": 18,
+          "kjv": "For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.",
+          "modern": "They refreshed my spirit as well as yours. Give recognition to such men."
+        },
+        {
+          "v": 19,
+          "kjv": "The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.",
+          "modern": "The churches of Asia greet you. Aquila and Priscilla greet you warmly in the Lord, and so does the church that meets at their house."
+        },
+        {
+          "v": 20,
+          "kjv": "All the brethren greet you. Greet ye one another with an holy kiss.",
+          "modern": "All the brothers here send you greetings. Greet one another with a holy kiss."
+        },
+        {
+          "v": 21,
+          "kjv": "The salutation of me Paul with mine own hand.",
+          "modern": "I, Paul, write this greeting in my own hand."
+        },
+        {
+          "v": 22,
+          "kjv": "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.",
+          "modern": "If anyone does not love the Lord, let him be cursed. Come, Lord!"
+        },
+        {
+          "v": 23,
+          "kjv": "The grace of our Lord Jesus Christ be with you.",
+          "modern": "The grace of our Lord Jesus Christ be with You."
+        },
+        {
+          "v": 24,
+          "kjv": "My love be with you all in Christ Jesus. Amen.",
+          "modern": "My love be with all of You in Christ Jesus. Amen."
+        }
+      ],
+      "summary": "Paul gives instructions for the collection for the saints in Jerusalem, directing each person to set aside something on the first day of the week. He outlines his travel plans, commends Timothy and Apollos to them, and closes with exhortations to watch, stand fast in the faith, and let all things be done with charity."
+    }
+  ]
+}

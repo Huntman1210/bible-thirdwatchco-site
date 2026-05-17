@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env.local
+.env*.local
+
+# data/bible/*.json and data/build-manifest.json are committed
+# so Vercel can build without access to the local bible-modern path
+
+.vercel

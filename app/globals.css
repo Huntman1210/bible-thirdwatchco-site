@@ -1,0 +1,71 @@
+:root {
+  --watch-black: #0d1410;
+  --bronze: #b08d5e;
+  --bone: #e8e1d2;
+  --stone: #6f6b5c;
+  --serif: "Fraunces", Georgia, serif;
+  --sans: "Inter", system-ui, -apple-system, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bone);
+  color: var(--watch-black);
+  font-family: var(--sans);
+  line-height: 1.5;
+}
+
+.container { max-width: 1200px; margin: 0 auto; padding: 0 1.25rem; }
+
+.site-header { background: var(--watch-black); color: var(--bone); border-bottom: 2px solid var(--bronze); }
+.site-header .container { display: flex; align-items: center; justify-content: space-between; padding-top: 1rem; padding-bottom: 1rem; }
+.brand { color: var(--bone); text-decoration: none; letter-spacing: 0.22em; font-weight: 500; font-size: 0.95rem; }
+.site-header nav a { color: var(--bone); text-decoration: none; margin-left: 1.5rem; font-size: 0.9rem; opacity: 0.85; }
+.site-header nav a:hover { opacity: 1; color: var(--bronze); }
+
+main { padding: 2.5rem 0 4rem; }
+
+h1 { font-family: var(--serif); font-weight: 600; font-style: italic; font-size: 2.4rem; margin: 0 0 1rem; }
+h2 { font-family: var(--serif); font-weight: 500; font-size: 1.4rem; margin: 2rem 0 0.75rem; }
+
+.verse-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+.verse-table th, .verse-table td { padding: 0.85rem 1rem; vertical-align: top; border-bottom: 1px solid rgba(13, 20, 16, 0.08); }
+.verse-table th { background: rgba(13, 20, 16, 0.04); text-align: left; font-weight: 500; font-family: var(--sans); font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--stone); }
+.verse-table th.v-num, .verse-table td.v-num { width: 3rem; text-align: right; }
+.verse-table td.v-num { font-family: var(--mono); font-size: 0.85rem; color: var(--bronze); }
+.verse-table td.kjv { font-family: var(--serif); font-size: 1.05rem; line-height: 1.55; width: 47%; }
+.verse-table td.modern { font-family: var(--serif); font-size: 1.0rem; line-height: 1.55; width: 47%; color: rgba(13, 20, 16, 0.84); }
+
+.chapter-nav { display: flex; justify-content: space-between; margin: 2rem 0 1rem; gap: 1rem; }
+.chapter-nav a { background: var(--watch-black); color: var(--bone); text-decoration: none; padding: 0.7rem 1.1rem; font-size: 0.85rem; letter-spacing: 0.1em; text-transform: uppercase; }
+.chapter-nav a:hover { background: var(--bronze); }
+
+audio { width: 100%; margin: 1rem 0 1.5rem; }
+
+.site-footer { background: var(--watch-black); color: var(--bone); padding: 2.5rem 0; margin-top: 4rem; }
+.footer-cta { font-family: var(--serif); font-style: italic; font-size: 1.3rem; margin: 0 0 1rem; }
+.klaviyo-fallback { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; max-width: 480px; }
+.klaviyo-fallback input { flex: 1; padding: 0.65rem 0.85rem; background: transparent; border: 1px solid rgba(232, 225, 210, 0.4); color: var(--bone); font-family: var(--sans); }
+.klaviyo-fallback button { background: var(--bronze); color: var(--watch-black); border: none; padding: 0.65rem 1.1rem; font-family: var(--sans); letter-spacing: 0.1em; text-transform: uppercase; font-size: 0.78rem; cursor: pointer; }
+.copy { font-size: 0.78rem; opacity: 0.65; }
+.copy a { color: var(--bronze); text-decoration: none; }
+
+.book-list { list-style: none; padding: 0; columns: 3; column-gap: 2rem; }
+.book-list li { break-inside: avoid; padding: 0.35rem 0; }
+.book-list a { color: var(--watch-black); text-decoration: none; border-bottom: 1px solid transparent; }
+.book-list a:hover { border-bottom-color: var(--bronze); color: var(--bronze); }
+
+@media (max-width: 720px) {
+  .verse-table, .verse-table tbody, .verse-table tr, .verse-table td { display: block; }
+  .verse-table th { display: none; }
+  .verse-table tr { padding: 1rem 0; border-bottom: 1px solid rgba(13, 20, 16, 0.08); }
+  .verse-table td.kjv, .verse-table td.modern, .verse-table td.v-num { width: 100%; padding: 0.2rem 0; }
+  .verse-table td.kjv { font-size: 1.1rem; }
+  .verse-table td.modern { font-size: 0.98rem; opacity: 0.92; }
+  .verse-table td.v-num { font-size: 0.75rem; }
+  .book-list { columns: 2; }
+}

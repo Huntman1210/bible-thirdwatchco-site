@@ -1,0 +1,336 @@
+{
+  "generatedAt": "2026-05-17T00:48:21.175Z",
+  "shipped": [
+    {
+      "slug": "genesis",
+      "display": "Genesis",
+      "chapters": 50
+    },
+    {
+      "slug": "exodus",
+      "display": "Exodus",
+      "chapters": 40
+    },
+    {
+      "slug": "leviticus",
+      "display": "Leviticus",
+      "chapters": 27
+    },
+    {
+      "slug": "numbers",
+      "display": "Numbers",
+      "chapters": 36
+    },
+    {
+      "slug": "deuteronomy",
+      "display": "Deuteronomy",
+      "chapters": 34
+    },
+    {
+      "slug": "joshua",
+      "display": "Joshua",
+      "chapters": 24
+    },
+    {
+      "slug": "judges",
+      "display": "Judges",
+      "chapters": 21
+    },
+    {
+      "slug": "ruth",
+      "display": "Ruth",
+      "chapters": 4
+    },
+    {
+      "slug": "1samuel",
+      "display": "1 Samuel",
+      "chapters": 31
+    },
+    {
+      "slug": "2samuel",
+      "display": "2 Samuel",
+      "chapters": 24
+    },
+    {
+      "slug": "1kings",
+      "display": "1 Kings",
+      "chapters": 22
+    },
+    {
+      "slug": "2kings",
+      "display": "2 Kings",
+      "chapters": 25
+    },
+    {
+      "slug": "1chronicles",
+      "display": "1 Chronicles",
+      "chapters": 29
+    },
+    {
+      "slug": "2chronicles",
+      "display": "2 Chronicles",
+      "chapters": 36
+    },
+    {
+      "slug": "ezra",
+      "display": "Ezra",
+      "chapters": 10
+    },
+    {
+      "slug": "nehemiah",
+      "display": "Nehemiah",
+      "chapters": 13
+    },
+    {
+      "slug": "esther",
+      "display": "Esther",
+      "chapters": 10
+    },
+    {
+      "slug": "job",
+      "display": "Job",
+      "chapters": 42
+    },
+    {
+      "slug": "psalms",
+      "display": "Psalms",
+      "chapters": 150
+    },
+    {
+      "slug": "proverbs",
+      "display": "Proverbs",
+      "chapters": 31
+    },
+    {
+      "slug": "ecclesiastes",
+      "display": "Ecclesiastes",
+      "chapters": 12
+    },
+    {
+      "slug": "songofsolomon",
+      "display": "Song of Solomon",
+      "chapters": 8
+    },
+    {
+      "slug": "isaiah",
+      "display": "Isaiah",
+      "chapters": 66
+    },
+    {
+      "slug": "jeremiah",
+      "display": "Jeremiah",
+      "chapters": 52
+    },
+    {
+      "slug": "lamentations",
+      "display": "Lamentations",
+      "chapters": 5
+    },
+    {
+      "slug": "ezekiel",
+      "display": "Ezekiel",
+      "chapters": 48
+    },
+    {
+      "slug": "daniel",
+      "display": "Daniel",
+      "chapters": 12
+    },
+    {
+      "slug": "hosea",
+      "display": "Hosea",
+      "chapters": 14
+    },
+    {
+      "slug": "joel",
+      "display": "Joel",
+      "chapters": 3
+    },
+    {
+      "slug": "amos",
+      "display": "Amos",
+      "chapters": 9
+    },
+    {
+      "slug": "obadiah",
+      "display": "Obadiah",
+      "chapters": 1
+    },
+    {
+      "slug": "jonah",
+      "display": "Jonah",
+      "chapters": 4
+    },
+    {
+      "slug": "micah",
+      "display": "Micah",
+      "chapters": 7
+    },
+    {
+      "slug": "nahum",
+      "display": "Nahum",
+      "chapters": 3
+    },
+    {
+      "slug": "habakkuk",
+      "display": "Habakkuk",
+      "chapters": 3
+    },
+    {
+      "slug": "zephaniah",
+      "display": "Zephaniah",
+      "chapters": 3
+    },
+    {
+      "slug": "haggai",
+      "display": "Haggai",
+      "chapters": 2
+    },
+    {
+      "slug": "zechariah",
+      "display": "Zechariah",
+      "chapters": 14
+    },
+    {
+      "slug": "malachi",
+      "display": "Malachi",
+      "chapters": 4
+    },
+    {
+      "slug": "matthew",
+      "display": "Matthew",
+      "chapters": 28
+    },
+    {
+      "slug": "mark",
+      "display": "Mark",
+      "chapters": 16
+    },
+    {
+      "slug": "luke",
+      "display": "Luke",
+      "chapters": 24
+    },
+    {
+      "slug": "john",
+      "display": "John",
+      "chapters": 21
+    },
+    {
+      "slug": "acts",
+      "display": "Acts",
+      "chapters": 28
+    },
+    {
+      "slug": "romans",
+      "display": "Romans",
+      "chapters": 16
+    },
+    {
+      "slug": "1corinthians",
+      "display": "1 Corinthians",
+      "chapters": 16
+    },
+    {
+      "slug": "2corinthians",
+      "display": "2 Corinthians",
+      "chapters": 13
+    },
+    {
+      "slug": "galatians",
+      "display": "Galatians",
+      "chapters": 6
+    },
+    {
+      "slug": "ephesians",
+      "display": "Ephesians",
+      "chapters": 6
+    },
+    {
+      "slug": "philippians",
+      "display": "Philippians",
+      "chapters": 4
+    },
+    {
+      "slug": "colossians",
+      "display": "Colossians",
+      "chapters": 4
+    },
+    {
+      "slug": "1thessalonians",
+      "display": "1 Thessalonians",
+      "chapters": 5
+    },
+    {
+      "slug": "2thessalonians",
+      "display": "2 Thessalonians",
+      "chapters": 3
+    },
+    {
+      "slug": "1timothy",
+      "display": "1 Timothy",
+      "chapters": 6
+    },
+    {
+      "slug": "2timothy",
+      "display": "2 Timothy",
+      "chapters": 4
+    },
+    {
+      "slug": "titus",
+      "display": "Titus",
+      "chapters": 3
+    },
+    {
+      "slug": "philemon",
+      "display": "Philemon",
+      "chapters": 1
+    },
+    {
+      "slug": "hebrews",
+      "display": "Hebrews",
+      "chapters": 13
+    },
+    {
+      "slug": "james",
+      "display": "James",
+      "chapters": 5
+    },
+    {
+      "slug": "1peter",
+      "display": "1 Peter",
+      "chapters": 5
+    },
+    {
+      "slug": "2peter",
+      "display": "2 Peter",
+      "chapters": 3
+    },
+    {
+      "slug": "1john",
+      "display": "1 John",
+      "chapters": 5
+    },
+    {
+      "slug": "2john",
+      "display": "2 John",
+      "chapters": 1
+    },
+    {
+      "slug": "3john",
+      "display": "3 John",
+      "chapters": 1
+    },
+    {
+      "slug": "jude",
+      "display": "Jude",
+      "chapters": 1
+    },
+    {
+      "slug": "revelation",
+      "display": "Revelation",
+      "chapters": 22
+    }
+  ],
+  "missing": []
+}

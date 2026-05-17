@@ -1,0 +1,1368 @@
+{
+  "book": "2 Corinthians",
+  "chapters": [
+    {
+      "num": 1,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:",
+          "modern": "From Paul, an apostle of Jesus Christ by the will of God, and from Timothy our brother — to the church of God which is at Corinth, together with all the saints throughout Achaia:"
+        },
+        {
+          "v": 2,
+          "kjv": "Grace be to you and peace from God our Father, and from the Lord Jesus Christ.",
+          "modern": "Grace and peace to You from God our Father and from the Lord Jesus Christ."
+        },
+        {
+          "v": 3,
+          "kjv": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;",
+          "modern": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort,"
+        },
+        {
+          "v": 4,
+          "kjv": "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.",
+          "modern": "who comforts us in all our tribulation, so that we are able to comfort those who are in any kind of trouble, with the same comfort with which we ourselves are comforted by God."
+        },
+        {
+          "v": 5,
+          "kjv": "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.",
+          "modern": "For just as the sufferings of Christ overflow into our lives, so also through Christ our consolation overflows."
+        },
+        {
+          "v": 6,
+          "kjv": "And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.",
+          "modern": "If we are afflicted, it is for Your consolation and salvation, which is at work as You patiently endure the same sufferings that we also suffer. And if we are comforted, it is for Your consolation and salvation."
+        },
+        {
+          "v": 7,
+          "kjv": "And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.",
+          "modern": "And our hope for You is steadfast, because we know that as You share in the sufferings, so also You will share in the consolation."
+        },
+        {
+          "v": 8,
+          "kjv": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:",
+          "modern": "Brothers, we do not want You to be unaware of the trouble we faced in Asia. We were pressed beyond measure, beyond our own strength, so that we despaired even of life itself."
+        },
+        {
+          "v": 9,
+          "kjv": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:",
+          "modern": "Indeed, we had the sentence of death in ourselves, so that we would not trust in ourselves, but in God Who raises the dead."
+        },
+        {
+          "v": 10,
+          "kjv": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;",
+          "modern": "He delivered us from such a great death, and He still delivers us; in Him we have set our hope that He will yet deliver us,"
+        },
+        {
+          "v": 11,
+          "kjv": "Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.",
+          "modern": "as You also help together by praying for us, so that thanks may be given by many people on our behalf for the gracious gift granted to us through the prayers of many."
+        },
+        {
+          "v": 12,
+          "kjv": "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.",
+          "modern": "Our boast is this: the testimony of our conscience that we have conducted ourselves in the world — and especially toward You — in simplicity and godly sincerity, not by fleshly wisdom but by the grace of God."
+        },
+        {
+          "v": 13,
+          "kjv": "For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;",
+          "modern": "For we write nothing to You other than what You read and understand. And I hope You will understand it fully,"
+        },
+        {
+          "v": 14,
+          "kjv": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.",
+          "modern": "just as You have understood us in part — that we are Your boast, even as You are ours, in the day of the Lord Jesus."
+        },
+        {
+          "v": 15,
+          "kjv": "And in this confidence I was minded to come unto you before, that ye might have a second benefit;",
+          "modern": "Because of this confidence, I planned to come to You first, so that You might have a double blessing:"
+        },
+        {
+          "v": 16,
+          "kjv": "And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea.",
+          "modern": "to pass through Your city on my way to Macedonia, then to come back to You from Macedonia, and have You send me on my way to Judaea."
+        },
+        {
+          "v": 17,
+          "kjv": "When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?",
+          "modern": "When I planned this, was I being fickle? Or do I make my plans according to the flesh, ready to say \"yes, yes\" and \"no, no\" in the same breath?"
+        },
+        {
+          "v": 18,
+          "kjv": "But as God is true, our word toward you was not yea and nay.",
+          "modern": "But as surely as God is faithful, our word to You was not \"yes\" and \"no.\""
+        },
+        {
+          "v": 19,
+          "kjv": "For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay; but in him was yea.",
+          "modern": "For the Son of God, Jesus Christ, Who was preached among You by us — by me and Silas and Timothy — was not \"yes\" and \"no,\" but in him it has always been \"yes.\""
+        },
+        {
+          "v": 20,
+          "kjv": "For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.",
+          "modern": "For all the promises of God find their \"yes\" in Him, and through Him also our \"Amen\" is spoken, to the glory of God."
+        },
+        {
+          "v": 21,
+          "kjv": "Now he which stablisheth us with you in Christ, and hath anointed us, is God;",
+          "modern": "Now it is God Who establishes us with You in Christ, and who has anointed us."
+        },
+        {
+          "v": 22,
+          "kjv": "Who hath also sealed us, and given the earnest of the Spirit in our hearts.",
+          "modern": "He has also sealed us as His own, and has given us the earnest of the Spirit in our hearts as a pledge of what is to come."
+        },
+        {
+          "v": 23,
+          "kjv": "Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth.",
+          "modern": "I call God as my witness — He sees my soul — that it was to spare You that I did not come to Corinth again."
+        },
+        {
+          "v": 24,
+          "kjv": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.",
+          "modern": "Not that we have dominion over Your faith — rather, we work together with You for Your joy, for it is by faith that You stand."
+        }
+      ],
+      "summary": "Paul blesses God as the Father of mercies and the God of all comfort, who comforts us in all our tribulation so that we may comfort others. He defends his sincerity toward the Corinthians and explains that he delayed his visit not out of fickleness but to spare them pain."
+    },
+    {
+      "num": 2,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "But I determined this with myself, that I would not come again to you in heaviness.",
+          "modern": "So I made up my mind not to make another painful visit to You."
+        },
+        {
+          "v": 2,
+          "kjv": "For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?",
+          "modern": "For if I cause You grief, who is left to make me glad but the very one whom I have grieved?"
+        },
+        {
+          "v": 3,
+          "kjv": "And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.",
+          "modern": "And this is the very reason I wrote what I did — so that when I came I would not be saddened by those who ought to make me rejoice. I had confidence in You all, that my joy would be the joy of You all."
+        },
+        {
+          "v": 4,
+          "kjv": "For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.",
+          "modern": "For out of much affliction and anguish of heart I wrote to You with many tears — not to grieve You, but to let You know the overflowing love I have for You."
+        },
+        {
+          "v": 5,
+          "kjv": "But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.",
+          "modern": "But if anyone has caused grief, he has not grieved me alone but in some measure all of You — I do not want to put the matter too heavily."
+        },
+        {
+          "v": 6,
+          "kjv": "Sufficient to such a man is this punishment, which was inflicted of many.",
+          "modern": "The punishment imposed on Him by the majority is enough for such a man."
+        },
+        {
+          "v": 7,
+          "kjv": "So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow.",
+          "modern": "So now You should rather forgive Him and comfort Him, or He may be overwhelmed by too much sorrow."
+        },
+        {
+          "v": 8,
+          "kjv": "Wherefore I beseech you that ye would confirm your love toward him.",
+          "modern": "So I appeal to You to reaffirm Your love for Him."
+        },
+        {
+          "v": 9,
+          "kjv": "For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.",
+          "modern": "This is the very reason I wrote — to put You to the test and see whether You would be obedient in everything."
+        },
+        {
+          "v": 10,
+          "kjv": "To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;",
+          "modern": "Anyone you forgive, I also forgive. And what I have forgiven — if I have forgiven anything — I have forgiven for Your sakes in the presence of Christ,"
+        },
+        {
+          "v": 11,
+          "kjv": "Lest Satan should get an advantage of us: for we are not ignorant of his devices.",
+          "modern": "so that Satan would not gain the advantage over us — for we are not ignorant of his devices."
+        },
+        {
+          "v": 12,
+          "kjv": "Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,",
+          "modern": "When I came to Troas to preach the gospel of Christ, the Lord had opened a door for me there."
+        },
+        {
+          "v": 13,
+          "kjv": "I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.",
+          "modern": "But I had no rest in my spirit, because I did not find my brother Titus there. So I took my leave of them and went on into Macedonia."
+        },
+        {
+          "v": 14,
+          "kjv": "Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.",
+          "modern": "But thanks be to God, Who always leads us in triumph in Christ and through us spreads the fragrance of the knowledge of Him everywhere."
+        },
+        {
+          "v": 15,
+          "kjv": "For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:",
+          "modern": "For we are to God the sweet aroma of Christ among those who are being saved and among those who are perishing."
+        },
+        {
+          "v": 16,
+          "kjv": "To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?",
+          "modern": "To the one we are an aroma of death leading to death, and to the other an aroma of life leading to life. And who is sufficient for such things?"
+        },
+        {
+          "v": 17,
+          "kjv": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.",
+          "modern": "For we are not like so many, who peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as men sent from God."
+        }
+      ],
+      "summary": "Paul explains that his earlier letter was written out of much affliction and tears, not to grieve them but so they would know his abundant love. He urges them to forgive and comfort the repentant offender, lest Satan gain an advantage, and describes the triumphal spread of the gospel as a sweet fragrance of Christ."
+    },
+    {
+      "num": 3,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?",
+          "modern": "Are we beginning again to commend ourselves? Or do we need, as some others do, letters of recommendation to You or from You?"
+        },
+        {
+          "v": 2,
+          "kjv": "Ye are our epistle written in our hearts, known and read of all men:",
+          "modern": "You yourselves are our letter, written on our hearts, known and read by all men,"
+        },
+        {
+          "v": 3,
+          "kjv": "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.",
+          "modern": "because You show that You are a letter from Christ delivered by us — written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts."
+        },
+        {
+          "v": 4,
+          "kjv": "And such trust have we through Christ to God-ward:",
+          "modern": "Such is the confidence we have through Christ toward God."
+        },
+        {
+          "v": 5,
+          "kjv": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;",
+          "modern": "Not that we are sufficient in ourselves to claim anything as coming from ourselves — our sufficiency is from God,"
+        },
+        {
+          "v": 6,
+          "kjv": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.",
+          "modern": "who has also made us able ministers of the new testament — not of the letter but of the Spirit. For the letter kills, but the Spirit gives life."
+        },
+        {
+          "v": 7,
+          "kjv": "But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:",
+          "modern": "Now if the ministry that brought death, engraved in letters on stones, came with such glory that the children of Israel could not look steadily at the face of Moses because of the glory of his countenance — a glory that was passing away —"
+        },
+        {
+          "v": 8,
+          "kjv": "How shall not the ministration of the spirit be rather more glorious?",
+          "modern": "how much more glorious will the ministry of the Spirit be?"
+        },
+        {
+          "v": 9,
+          "kjv": "For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.",
+          "modern": "For if the ministry that brought condemnation was glorious, how much more does the ministry that brings righteousness overflow with glory."
+        },
+        {
+          "v": 10,
+          "kjv": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.",
+          "modern": "Indeed, what once was glorious has no glory now in comparison with the surpassing glory."
+        },
+        {
+          "v": 11,
+          "kjv": "For if that which is done away was glorious, much more that which remaineth is glorious.",
+          "modern": "For if what was passing away came with glory, much more does what remains come with glory."
+        },
+        {
+          "v": 12,
+          "kjv": "Seeing then that we have such hope, we use great plainness of speech:",
+          "modern": "Since we have such a hope, we are very bold in our speech."
+        },
+        {
+          "v": 13,
+          "kjv": "And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:",
+          "modern": "We are not like Moses, who put a veil over his face so that the children of Israel could not gaze on the end of what was passing away."
+        },
+        {
+          "v": 14,
+          "kjv": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.",
+          "modern": "But their minds were blinded, for to this day the same veil remains unlifted at the reading of the old testament — and only in Christ is it taken away."
+        },
+        {
+          "v": 15,
+          "kjv": "But even unto this day, when Moses is read, the vail is upon their heart.",
+          "modern": "Even to this day, whenever Moses is read, a veil lies upon their hearts."
+        },
+        {
+          "v": 16,
+          "kjv": "Nevertheless when it shall turn to the Lord, the vail shall be taken away.",
+          "modern": "But whenever the heart turns to the Lord, the veil is taken away."
+        },
+        {
+          "v": 17,
+          "kjv": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.",
+          "modern": "Now the Lord is that Spirit, and where the Spirit of the Lord is, there is liberty."
+        },
+        {
+          "v": 18,
+          "kjv": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.",
+          "modern": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord."
+        }
+      ],
+      "summary": "Paul declares that the Corinthians themselves are his letter of commendation, written not with ink but with the Spirit of the living God on the tables of the heart. He contrasts the ministry of the old covenant — the letter that kills — with the ministry of the new covenant — the Spirit that gives life — and declares that where the Spirit of the Lord is, there is liberty."
+    },
+    {
+      "num": 4,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Therefore seeing we have this ministry, as we have received mercy, we faint not;",
+          "modern": "Therefore, since we have this ministry by the mercy we have received, we do not lose heart."
+        },
+        {
+          "v": 2,
+          "kjv": "But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.",
+          "modern": "We have renounced the hidden things of shame, refusing to walk in craftiness or to handle the word of God deceitfully. Instead, by the open declaration of the truth, we commend ourselves to every man's conscience in the sight of God."
+        },
+        {
+          "v": 3,
+          "kjv": "But if our gospel be hid, it is hid to them that are lost:",
+          "modern": "But if our gospel is veiled, it is veiled to those who are perishing —"
+        },
+        {
+          "v": 4,
+          "kjv": "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.",
+          "modern": "the god of this world has blinded the minds of those who do not believe, so that the light of the glorious gospel of Christ, Who is the image of God, should not shine on them."
+        },
+        {
+          "v": 5,
+          "kjv": "For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.",
+          "modern": "For we do not preach ourselves, but Christ Jesus as Lord — and ourselves as Your servants for Jesus' sake."
+        },
+        {
+          "v": 6,
+          "kjv": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+          "modern": "For God, Who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ."
+        },
+        {
+          "v": 7,
+          "kjv": "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.",
+          "modern": "But we have this treasure in earthen vessels, so that the excellency of the power may be of God and not of us."
+        },
+        {
+          "v": 8,
+          "kjv": "We are troubled on every side, yet not distressed; we are perplexed, but not in despair;",
+          "modern": "We are pressed on every side, yet not crushed; perplexed, but not in despair;"
+        },
+        {
+          "v": 9,
+          "kjv": "Persecuted, but not forsaken; cast down, but not destroyed;",
+          "modern": "persecuted, but not forsaken; struck down, but not destroyed."
+        },
+        {
+          "v": 10,
+          "kjv": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.",
+          "modern": "We are always carrying around in the body the dying of the Lord Jesus, so that the life of Jesus also may be made known in our body."
+        },
+        {
+          "v": 11,
+          "kjv": "For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.",
+          "modern": "For we who are alive are always being given over to death for Jesus' sake, so that the life of Jesus also may be made known in our mortal flesh."
+        },
+        {
+          "v": 12,
+          "kjv": "So then death worketh in us, but life in you.",
+          "modern": "So then death is at work in us, but life in You."
+        },
+        {
+          "v": 13,
+          "kjv": "We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;",
+          "modern": "We have the same spirit of faith as is written: \"I believed, and therefore have I spoken.\" We also believe, and therefore speak,"
+        },
+        {
+          "v": 14,
+          "kjv": "Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.",
+          "modern": "knowing that He who raised up the Lord Jesus will also raise us up with Jesus, and will present us together with You in His presence."
+        },
+        {
+          "v": 15,
+          "kjv": "For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.",
+          "modern": "For all these things are for Your sakes, so that grace, having reached more and more people, may cause thanksgiving to overflow to the glory of God."
+        },
+        {
+          "v": 16,
+          "kjv": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.",
+          "modern": "Therefore we do not lose heart. Though our outward man is perishing, yet the inward man is being renewed day by day."
+        },
+        {
+          "v": 17,
+          "kjv": "For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;",
+          "modern": "For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory,"
+        },
+        {
+          "v": 18,
+          "kjv": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+          "modern": "while we look not at the things which are seen, but at the things which are not seen — for the things which are seen are temporal, but the things which are not seen are eternal."
+        }
+      ],
+      "summary": "Paul declares that the god of this world has blinded the minds of unbelievers, but God has shined the light of the knowledge of His glory in the face of Jesus Christ. He describes the treasure of the gospel carried in earthen vessels, and though outwardly perishing, the inward man is renewed day by day — for the afflictions are light and momentary compared to the eternal weight of glory."
+    },
+    {
+      "num": 5,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+          "modern": "For we know that if the earthly tent we live in is taken down, we have a building from God — a house not made with hands, eternal in the heavens."
+        },
+        {
+          "v": 2,
+          "kjv": "For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:",
+          "modern": "For in this present body we groan, longing to be clothed with our heavenly dwelling,"
+        },
+        {
+          "v": 3,
+          "kjv": "If so be that being clothed we shall not be found naked.",
+          "modern": "if indeed, having been clothed, we shall not be found naked."
+        },
+        {
+          "v": 4,
+          "kjv": "For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.",
+          "modern": "For we who are in this tent groan, being burdened — not that we wish to be unclothed, but to be further clothed, so that what is mortal may be swallowed up by life."
+        },
+        {
+          "v": 5,
+          "kjv": "Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit.",
+          "modern": "Now He who has prepared us for this very thing is God, Who also has given us the Spirit as an earnest of what is to come."
+        },
+        {
+          "v": 6,
+          "kjv": "Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:",
+          "modern": "Therefore we are always confident, knowing that while we are at home in the body, we are away from the Lord —"
+        },
+        {
+          "v": 7,
+          "kjv": "(For we walk by faith, not by sight:)",
+          "modern": "for we walk by faith, not by sight."
+        },
+        {
+          "v": 8,
+          "kjv": "We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.",
+          "modern": "We are confident, I say, and we would prefer rather to be absent from the body and to be at home with the Lord."
+        },
+        {
+          "v": 9,
+          "kjv": "Wherefore we labour, that, whether present or absent, we may be accepted of him.",
+          "modern": "So we make it our aim, whether present or absent, to be pleasing to Him."
+        },
+        {
+          "v": 10,
+          "kjv": "For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.",
+          "modern": "For we must all appear before the judgment seat of Christ, so that each one may receive what is due for the things done in the body, according to what He has done, whether good or bad."
+        },
+        {
+          "v": 11,
+          "kjv": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.",
+          "modern": "Therefore, knowing the terror of the Lord, we persuade men. What we are is plain to God, and I hope it is plain also to Your consciences."
+        },
+        {
+          "v": 12,
+          "kjv": "For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that ye may have somewhat to answer them which glory in appearance, and not in heart.",
+          "modern": "We are not commending ourselves to You again, but giving You reason to be proud of us — so You will have an answer for those who boast in outward appearance and not in the heart."
+        },
+        {
+          "v": 13,
+          "kjv": "For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause.",
+          "modern": "If we are out of our minds, it is for God; and if we are in our right mind, it is for You."
+        },
+        {
+          "v": 14,
+          "kjv": "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:",
+          "modern": "For the love of Christ constrains us, because we have come to this conclusion: that one died for all, and therefore all died."
+        },
+        {
+          "v": 15,
+          "kjv": "And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.",
+          "modern": "And He died for all so that those who live should no longer live for themselves, but for Him who died for them and rose again."
+        },
+        {
+          "v": 16,
+          "kjv": "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more.",
+          "modern": "From now on, then, we regard no man after the flesh. Even if we have known Christ after the flesh, yet now we know Him so no longer."
+        },
+        {
+          "v": 17,
+          "kjv": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+          "modern": "Therefore if any man be in Christ, He is a new creature: old things are passed away; behold, all things are become new."
+        },
+        {
+          "v": 18,
+          "kjv": "And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;",
+          "modern": "And all things are of God, Who has reconciled us to Himself through Jesus Christ and has given us the ministry of reconciliation:"
+        },
+        {
+          "v": 19,
+          "kjv": "To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.",
+          "modern": "namely, that God was in Christ, reconciling the world to Himself, not imputing their trespasses to them; and He has committed to us the word of reconciliation."
+        },
+        {
+          "v": 20,
+          "kjv": "Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.",
+          "modern": "Now then, we are ambassadors for Christ, as though God were appealing through us; we plead with You in Christ's stead — be reconciled to God."
+        },
+        {
+          "v": 21,
+          "kjv": "For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.",
+          "modern": "For He hath made Him to be sin for us, who knew no sin; that we might be made the righteousness of God in Him."
+        }
+      ],
+      "summary": "Paul teaches that when our earthly body is dissolved, we have a building of God eternal in the heavens, and that to be absent from the body is to be present with the Lord. He declares that if any man is in Christ he is a new creature, and that God has given us the ministry of reconciliation — for He made Christ, who knew no sin, to be sin for us, that we might be made the righteousness of God in Him."
+    },
+    {
+      "num": 6,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.",
+          "modern": "As workers together with Him, we plead with you also not to receive the grace of God in vain."
+        },
+        {
+          "v": 2,
+          "kjv": "(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)",
+          "modern": "For He says, \"In the acceptable time I have heard you, and in the day of salvation I have helped you.\" Now is the acceptable time; now is the day of salvation."
+        },
+        {
+          "v": 3,
+          "kjv": "Giving no offence in any thing, that the ministry be not blamed:",
+          "modern": "We give no offense in anything, so that our ministry may not be blamed;"
+        },
+        {
+          "v": 4,
+          "kjv": "But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,",
+          "modern": "but in everything we commend ourselves as ministers of God: in much patience, in afflictions, in hardships, in distresses,"
+        },
+        {
+          "v": 5,
+          "kjv": "In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;",
+          "modern": "in beatings, in imprisonments, in riots, in labors, in sleepless nights, in fastings;"
+        },
+        {
+          "v": 6,
+          "kjv": "By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,",
+          "modern": "by purity, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by sincere love,"
+        },
+        {
+          "v": 7,
+          "kjv": "By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,",
+          "modern": "by the word of truth, by the power of God, with the armor of righteousness for the right hand and the left,"
+        },
+        {
+          "v": 8,
+          "kjv": "By honour and dishonour, by evil report and good report: as deceivers, and yet true;",
+          "modern": "through honor and dishonor, through bad report and good report — regarded as deceivers, and yet true;"
+        },
+        {
+          "v": 9,
+          "kjv": "As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;",
+          "modern": "as unknown, and yet well known; as dying, and yet we live; as chastened, and yet not killed;"
+        },
+        {
+          "v": 10,
+          "kjv": "As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.",
+          "modern": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things."
+        },
+        {
+          "v": 11,
+          "kjv": "O ye Corinthians, our mouth is open unto you, our heart is enlarged.",
+          "modern": "O Corinthians, we have spoken openly to You, our heart is wide open."
+        },
+        {
+          "v": 12,
+          "kjv": "Ye are not straitened in us, but ye are straitened in your own bowels.",
+          "modern": "You are not held back by us; You are held back by Your own affections."
+        },
+        {
+          "v": 13,
+          "kjv": "Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.",
+          "modern": "Now in fair exchange — I speak as to my children — open wide Your hearts also."
+        },
+        {
+          "v": 14,
+          "kjv": "Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?",
+          "modern": "Be ye not unequally yoked together with unbelievers — for what fellowship has righteousness with unrighteousness? And what communion has light with darkness?"
+        },
+        {
+          "v": 15,
+          "kjv": "And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?",
+          "modern": "And what concord has Christ with Belial? Or what part has a believer with an unbeliever?"
+        },
+        {
+          "v": 16,
+          "kjv": "And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.",
+          "modern": "And what agreement has the temple of God with idols? For You are the temple of the living God. As God has said: \"I will dwell in them and walk among them; and I will be their God, and they shall be My people.\""
+        },
+        {
+          "v": 17,
+          "kjv": "Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,",
+          "modern": "Therefore \"come out from among them and be separate, says the Lord. Do not touch the unclean thing, and I will receive You."
+        },
+        {
+          "v": 18,
+          "kjv": "And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.",
+          "modern": "I will be a Father to You, and You shall be My sons and daughters, says the Lord Almighty.\""
+        }
+      ],
+      "summary": "Paul urges the Corinthians not to receive the grace of God in vain and describes the hardships of his ministry — in afflictions, labors, watchings, and fastings. He commands them to be not unequally yoked together with unbelievers, for what fellowship has righteousness with unrighteousness, or what communion has light with darkness."
+    },
+    {
+      "num": 7,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.",
+          "modern": "Therefore, dearly beloved, since we have these promises, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God."
+        },
+        {
+          "v": 2,
+          "kjv": "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.",
+          "modern": "Open your hearts to us. We have wronged no one, we have corrupted no one, we have defrauded no one."
+        },
+        {
+          "v": 3,
+          "kjv": "I speak not this to condemn you: for I have said before, that ye are in our hearts to die together and live together.",
+          "modern": "I do not say this to condemn you, for I have said before that you are in our hearts, to die with us and to live with us."
+        },
+        {
+          "v": 4,
+          "kjv": "Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.",
+          "modern": "Great is my boldness of speech toward you; great is my boasting on your behalf. I am filled with comfort; I am exceedingly joyful in all our tribulation."
+        },
+        {
+          "v": 5,
+          "kjv": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.",
+          "modern": "For when we came into Macedonia, our flesh had no rest. We were troubled on every side: outside were conflicts, inside were fears."
+        },
+        {
+          "v": 6,
+          "kjv": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;",
+          "modern": "But God, Who comforts those who are downcast, comforted us by the coming of Titus,"
+        },
+        {
+          "v": 7,
+          "kjv": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.",
+          "modern": "and not by his coming only, but also by the consolation with which he was comforted in you when he told us of your earnest desire, your mourning, your fervent zeal toward me — so that I rejoiced even more."
+        },
+        {
+          "v": 8,
+          "kjv": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.",
+          "modern": "For though I made you sorry with my letter, I do not regret it now — though I once did regret it. I see that the same letter made you sorry, though only for a season."
+        },
+        {
+          "v": 9,
+          "kjv": "Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.",
+          "modern": "Now I rejoice — not that you were made sorry, but that your sorrow led to repentance. You were made sorry in a godly way, so that you suffered no loss through us."
+        },
+        {
+          "v": 10,
+          "kjv": "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.",
+          "modern": "For godly sorrow produces repentance leading to salvation, not to be regretted; but the sorrow of the world produces death."
+        },
+        {
+          "v": 11,
+          "kjv": "For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.",
+          "modern": "See what this very thing — your godly sorrow — produced in you: what earnestness, what eagerness to clear yourselves, what indignation, what fear, what longing, what zeal, what readiness to set things right! In every way you have shown yourselves to be clear in this matter."
+        },
+        {
+          "v": 12,
+          "kjv": "Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.",
+          "modern": "So then, though I wrote to you, it was not for the sake of the one who did the wrong, nor for the sake of the one who suffered the wrong, but so that our earnest care for you might be made plain to you in the sight of God."
+        },
+        {
+          "v": 13,
+          "kjv": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
+          "modern": "Therefore we were comforted by your comfort. And we rejoiced exceedingly the more for the joy of Titus, because his spirit was refreshed by you all."
+        },
+        {
+          "v": 14,
+          "kjv": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.",
+          "modern": "For if I have boasted anything to him about you, I am not ashamed; but just as we spoke all things to you in truth, so also our boasting to Titus has proved true."
+        },
+        {
+          "v": 15,
+          "kjv": "And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.",
+          "modern": "And his affection for you is even greater as he remembers the obedience of you all, how you received him with fear and trembling."
+        },
+        {
+          "v": 16,
+          "kjv": "I rejoice therefore that I have confidence in you in all things.",
+          "modern": "I rejoice that I have complete confidence in you."
+        }
+      ],
+      "summary": "Paul urges the Corinthians to cleanse themselves from all filthiness of the flesh and spirit and expresses his joy over Titus's report of their repentance. He distinguishes godly sorrow, which produces repentance leading to salvation, from the sorrow of the world, which produces death."
+    },
+    {
+      "num": 8,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;",
+          "modern": "Now, brothers, we want You to know about the grace of God which has been given to the churches of Macedonia:"
+        },
+        {
+          "v": 2,
+          "kjv": "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.",
+          "modern": "how in the midst of a great trial of affliction, the abundance of their joy and their deep poverty overflowed into the riches of their generosity."
+        },
+        {
+          "v": 3,
+          "kjv": "For to their power, I bear record, yea, and beyond their power they were willing of themselves;",
+          "modern": "For I testify that they gave according to their ability — yes, and beyond their ability — entirely on their own,"
+        },
+        {
+          "v": 4,
+          "kjv": "Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.",
+          "modern": "begging us with much entreaty that we would receive their gift and let them share in the ministry to the saints."
+        },
+        {
+          "v": 5,
+          "kjv": "And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.",
+          "modern": "And they did this not as we had hoped — they first gave themselves to the Lord, and then to us, by the will of God."
+        },
+        {
+          "v": 6,
+          "kjv": "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.",
+          "modern": "So we urged Titus, that as he had begun, he would also complete this grace in you as well."
+        },
+        {
+          "v": 7,
+          "kjv": "Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also.",
+          "modern": "But as you abound in everything — in faith, in speech, in knowledge, in all diligence, and in your love for us — see that you abound in this grace also."
+        },
+        {
+          "v": 8,
+          "kjv": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.",
+          "modern": "I am not speaking by commandment, but by occasion of the eagerness of others — and to test the sincerity of your love."
+        },
+        {
+          "v": 9,
+          "kjv": "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.",
+          "modern": "For You know the grace of our Lord Jesus Christ — that though He was rich, yet for Your sakes He became poor, that ye through His poverty might be rich."
+        },
+        {
+          "v": 10,
+          "kjv": "And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.",
+          "modern": "And in this I give my advice: this is best for You, who began a year ago not only to give but also to be eager to give."
+        },
+        {
+          "v": 11,
+          "kjv": "Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have.",
+          "modern": "Now finish doing it, so that just as You were ready in willingness, You may also complete it out of what You have."
+        },
+        {
+          "v": 12,
+          "kjv": "For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.",
+          "modern": "For if the willingness is there first, the gift is acceptable according to what a man has, not according to what he does not have."
+        },
+        {
+          "v": 13,
+          "kjv": "For I mean not that other men be eased, and ye burdened:",
+          "modern": "I do not mean that others should be eased and You burdened,"
+        },
+        {
+          "v": 14,
+          "kjv": "But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:",
+          "modern": "but that there should be equality — that now at this time Your abundance may supply their lack, so that their abundance may also supply Your lack, that there may be equality."
+        },
+        {
+          "v": 15,
+          "kjv": "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.",
+          "modern": "As it is written: \"He who gathered much had nothing over, and he who gathered little had no lack.\""
+        },
+        {
+          "v": 16,
+          "kjv": "But thanks be to God, which put the same earnest care into the heart of Titus for you.",
+          "modern": "But thanks be to God, Who put the same earnest care for you into the heart of Titus."
+        },
+        {
+          "v": 17,
+          "kjv": "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.",
+          "modern": "For he not only accepted our appeal, but being himself even more eager, he is coming to you of his own accord."
+        },
+        {
+          "v": 18,
+          "kjv": "And we have sent with him the brother, whose praise is in the gospel throughout all the churches;",
+          "modern": "And we have sent along with him the brother whose praise in the gospel is known throughout all the churches."
+        },
+        {
+          "v": 19,
+          "kjv": "And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:",
+          "modern": "And not only that, but he was also chosen by the churches to travel with us with this gift, which is administered by us to the glory of the Lord Himself and to show our ready mind,"
+        },
+        {
+          "v": 20,
+          "kjv": "Avoiding this, that no man should blame us in this abundance which is administered by us:",
+          "modern": "guarding against this — that no man should blame us in our administration of this generous gift."
+        },
+        {
+          "v": 21,
+          "kjv": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men.",
+          "modern": "For we are providing what is honorable, not only in the sight of the Lord but also in the sight of men."
+        },
+        {
+          "v": 22,
+          "kjv": "And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which he hath in you.",
+          "modern": "And we have sent with them our brother, whom we have often proved to be diligent in many things, and is now even more diligent because of the great confidence he has in you."
+        },
+        {
+          "v": 23,
+          "kjv": "Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.",
+          "modern": "If anyone inquires about Titus, he is my partner and fellow worker for you. As for our brothers, they are the messengers of the churches, the glory of Christ."
+        },
+        {
+          "v": 24,
+          "kjv": "Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.",
+          "modern": "Therefore show to them, and before the churches, the proof of Your love and of our boasting about You."
+        }
+      ],
+      "summary": "Paul holds up the generosity of the Macedonian churches as an example, urging the Corinthians to complete the collection they began the year before. He reminds them that the Lord Jesus Christ, though He was rich, became poor for their sakes, so that through His poverty they might be rich."
+    },
+    {
+      "num": 9,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "For as touching the ministering to the saints, it is superfluous for me to write to you:",
+          "modern": "As concerning the ministry to the saints, it is unnecessary for me to write to you,"
+        },
+        {
+          "v": 2,
+          "kjv": "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.",
+          "modern": "for I know your eagerness, of which I boast to the Macedonians, saying that Achaia was ready a year ago — and your zeal has stirred up the majority of them."
+        },
+        {
+          "v": 3,
+          "kjv": "Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:",
+          "modern": "Yet I have sent the brothers so that our boasting about you would not be in vain in this matter, but that you may be ready, as I said you would be."
+        },
+        {
+          "v": 4,
+          "kjv": "Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.",
+          "modern": "Otherwise, if any Macedonians come with me and find you unprepared, we — not to say you — would be ashamed of this same confident boasting."
+        },
+        {
+          "v": 5,
+          "kjv": "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.",
+          "modern": "So I thought it necessary to urge the brothers to go ahead to you and arrange beforehand the bounty you had promised, so that it would be ready as a generous gift and not as a grudging one."
+        },
+        {
+          "v": 6,
+          "kjv": "But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.",
+          "modern": "But this I say: he which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully."
+        },
+        {
+          "v": 7,
+          "kjv": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+          "modern": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
+        },
+        {
+          "v": 8,
+          "kjv": "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:",
+          "modern": "And God is able to make all grace abound toward you, so that always, having all sufficiency in all things, you may abound in every good work."
+        },
+        {
+          "v": 9,
+          "kjv": "(As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.",
+          "modern": "As it is written: \"He has dispersed abroad, He has given to the poor; His righteousness endures forever.\""
+        },
+        {
+          "v": 10,
+          "kjv": "Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)",
+          "modern": "Now He who supplies seed to the sower and bread for food will supply and multiply your seed sown, and will increase the fruits of your righteousness."
+        },
+        {
+          "v": 11,
+          "kjv": "Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.",
+          "modern": "You will be enriched in everything for all generosity, which through us produces thanksgiving to God."
+        },
+        {
+          "v": 12,
+          "kjv": "For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;",
+          "modern": "For the administration of this service not only supplies the needs of the saints, but is also overflowing in many thanksgivings to God."
+        },
+        {
+          "v": 13,
+          "kjv": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;",
+          "modern": "While by the proof of this ministry they glorify God for Your confessed obedience to the gospel of Christ, and for Your generous giving to them and to all men,"
+        },
+        {
+          "v": 14,
+          "kjv": "And by their prayer for you, which long after you for the exceeding grace of God in you.",
+          "modern": "and by their prayer for You, in which they long after You for the exceeding grace of God in You."
+        },
+        {
+          "v": 15,
+          "kjv": "Thanks be unto God for his unspeakable gift.",
+          "modern": "Thanks be to God for His unspeakable gift!"
+        }
+      ],
+      "summary": "Paul encourages the Corinthians to give generously to the collection, teaching that he who sows bountifully shall also reap bountifully. He declares that God loves a cheerful giver and is able to make all grace abound toward them, so that they always have sufficiency in all things."
+    },
+    {
+      "num": 10,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:",
+          "modern": "Now I, Paul, myself appeal to you by the meekness and gentleness of Christ — I who am timid when face to face with You, but bold when away from You."
+        },
+        {
+          "v": 2,
+          "kjv": "But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.",
+          "modern": "I beg You that when I am present I may not have to be as bold as I now intend to be against some who think we are walking according to the flesh."
+        },
+        {
+          "v": 3,
+          "kjv": "For though we walk in the flesh, we do not war after the flesh:",
+          "modern": "For though we walk in the flesh, we do not war after the flesh."
+        },
+        {
+          "v": 4,
+          "kjv": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)",
+          "modern": "For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strongholds."
+        },
+        {
+          "v": 5,
+          "kjv": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;",
+          "modern": "We cast down imaginations and every high thing that exalts itself against the knowledge of God, and we bring every thought into captivity to the obedience of Christ;"
+        },
+        {
+          "v": 6,
+          "kjv": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled.",
+          "modern": "and we are ready to punish every disobedience, once Your obedience is complete."
+        },
+        {
+          "v": 7,
+          "kjv": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's.",
+          "modern": "Do You look on things after the outward appearance? If anyone is confident that he is Christ's, let Him consider this again — that just as He is Christ's, so also are we."
+        },
+        {
+          "v": 8,
+          "kjv": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:",
+          "modern": "For even if I should boast somewhat more about our authority — which the Lord has given us for building You up and not for tearing You down — I would not be ashamed."
+        },
+        {
+          "v": 9,
+          "kjv": "That I may not seem as if I would terrify you by letters.",
+          "modern": "I do not want it to seem that I am trying to terrify You with my letters."
+        },
+        {
+          "v": 10,
+          "kjv": "For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.",
+          "modern": "\"For His letters,\" they say, \"are weighty and powerful, but His bodily presence is weak, and His speech contemptible.\""
+        },
+        {
+          "v": 11,
+          "kjv": "Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.",
+          "modern": "Let such a person consider this: what we are in word by letters when absent, such we will also be in deed when present."
+        },
+        {
+          "v": 12,
+          "kjv": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.",
+          "modern": "For we dare not class or compare ourselves with some who commend themselves; but they, measuring themselves by themselves and comparing themselves among themselves, are not wise."
+        },
+        {
+          "v": 13,
+          "kjv": "But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.",
+          "modern": "But we will not boast of things beyond our measure, but only according to the measure of the sphere which God has assigned to us — a measure that reaches even to You."
+        },
+        {
+          "v": 14,
+          "kjv": "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:",
+          "modern": "For we are not stretching ourselves beyond our measure, as though we did not reach to You — for we did come as far as You with the gospel of Christ."
+        },
+        {
+          "v": 15,
+          "kjv": "Not boasting of things without our measure, that is, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,",
+          "modern": "We do not boast beyond our measure in the labors of other men, but we have hope that as Your faith grows, our sphere of work will be greatly enlarged among You, according to our rule,"
+        },
+        {
+          "v": 16,
+          "kjv": "To preach the gospel in the regions beyond you, and not to boast in another man's line of things made ready to our hand.",
+          "modern": "so that we may preach the gospel in the regions beyond You, and not boast in another man's territory in things already prepared."
+        },
+        {
+          "v": 17,
+          "kjv": "But he that glorieth, let him glory in the Lord.",
+          "modern": "But He who glories, let him glory in the Lord."
+        },
+        {
+          "v": 18,
+          "kjv": "For not he that commendeth himself is approved, but whom the Lord commendeth.",
+          "modern": "For it is not the one who commends himself who is approved, but the one whom the Lord commends."
+        }
+      ],
+      "summary": "Paul defends his authority, declaring that though he walks in the flesh, he does not war after the flesh — the weapons of his warfare are mighty through God to the pulling down of strongholds. He warns those who accuse him of being bold only in letters that when he comes in person, his actions will match his words."
+    },
+    {
+      "num": 11,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "Would to God ye could bear with me a little in my folly: and indeed bear with me.",
+          "modern": "I wish you would bear with me a little in my folly — and indeed you do bear with me."
+        },
+        {
+          "v": 2,
+          "kjv": "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.",
+          "modern": "For I am jealous over You with a godly jealousy. I have promised You to one husband, to present You as a chaste virgin to Christ."
+        },
+        {
+          "v": 3,
+          "kjv": "But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.",
+          "modern": "But I fear that, just as the serpent beguiled Eve by his subtilty, so your minds may be corrupted from the simplicity that is in Christ."
+        },
+        {
+          "v": 4,
+          "kjv": "For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.",
+          "modern": "For if someone comes preaching another Jesus, whom we have not preached, or if You receive another spirit, which You have not received, or another gospel, which You have not accepted — you bear with Him easily enough."
+        },
+        {
+          "v": 5,
+          "kjv": "For I suppose I was not a whit behind the very chiefest apostles.",
+          "modern": "For I consider that I am in no way behind the very chiefest apostles."
+        },
+        {
+          "v": 6,
+          "kjv": "But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.",
+          "modern": "Even though I am untrained in speech, I am not so in knowledge — but in every way we have been thoroughly made known to You in all things."
+        },
+        {
+          "v": 7,
+          "kjv": "Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?",
+          "modern": "Did I commit an offence by humbling myself so that You might be exalted, because I preached the gospel of God to You free of charge?"
+        },
+        {
+          "v": 8,
+          "kjv": "I robbed other churches, taking wages of them, to do you service.",
+          "modern": "I robbed other churches, taking wages from them, to serve You."
+        },
+        {
+          "v": 9,
+          "kjv": "And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.",
+          "modern": "And when I was with You and in need, I was a burden to no one. For what I lacked, the brothers who came from Macedonia supplied. And in everything I have kept myself from being burdensome to You, and so will I continue to keep myself."
+        },
+        {
+          "v": 10,
+          "kjv": "As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.",
+          "modern": "As the truth of Christ is in me, no one shall stop me of this boasting in the regions of Achaia."
+        },
+        {
+          "v": 11,
+          "kjv": "Wherefore? because I love you not? God knoweth.",
+          "modern": "Why? Because I do not love You? God knows I do."
+        },
+        {
+          "v": 12,
+          "kjv": "But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.",
+          "modern": "But what I am doing, I will continue to do, in order to cut off the opportunity from those who want one — so that in their boasting they may be found just as we are."
+        },
+        {
+          "v": 13,
+          "kjv": "For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.",
+          "modern": "For such are false apostles, deceitful workers, transforming themselves into apostles of Christ."
+        },
+        {
+          "v": 14,
+          "kjv": "And no marvel; for Satan himself is transformed into an angel of light.",
+          "modern": "And no wonder — for Satan himself is transformed into an angel of light."
+        },
+        {
+          "v": 15,
+          "kjv": "Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.",
+          "modern": "It is no great thing, then, if his ministers also are transformed as ministers of righteousness — whose end shall be according to their works."
+        },
+        {
+          "v": 16,
+          "kjv": "I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.",
+          "modern": "I say again, let no man think me a fool. But if you do, then receive me as a fool, so that I also may boast a little."
+        },
+        {
+          "v": 17,
+          "kjv": "That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.",
+          "modern": "What I am saying, I do not say according to the Lord, but as it were foolishly, in this confidence of boasting."
+        },
+        {
+          "v": 18,
+          "kjv": "Seeing that many glory after the flesh, I will glory also.",
+          "modern": "Since many boast after the flesh, I will boast also."
+        },
+        {
+          "v": 19,
+          "kjv": "For ye suffer fools gladly, seeing ye yourselves are wise.",
+          "modern": "For you suffer fools gladly, since you yourselves are so wise."
+        },
+        {
+          "v": 20,
+          "kjv": "For ye suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.",
+          "modern": "For you put up with it if a man brings you into bondage, if a man devours you, if a man takes from you, if a man exalts himself, if a man strikes you on the face."
+        },
+        {
+          "v": 21,
+          "kjv": "I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.",
+          "modern": "To my shame, I say that we were too weak for that! But in whatever anyone is bold — I speak foolishly — I am bold also."
+        },
+        {
+          "v": 22,
+          "kjv": "Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.",
+          "modern": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they the seed of Abraham? So am I."
+        },
+        {
+          "v": 23,
+          "kjv": "Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.",
+          "modern": "Are they ministers of Christ? (I speak as a fool.) I am more so — in labors more abundant, in stripes above measure, in prisons more often, in deaths frequently."
+        },
+        {
+          "v": 24,
+          "kjv": "Of the Jews five times received I forty stripes save one.",
+          "modern": "From the Jews five times I received forty stripes save one."
+        },
+        {
+          "v": 25,
+          "kjv": "Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;",
+          "modern": "Three times I was beaten with rods, once I was stoned, three times I was shipwrecked, a night and a day I have been adrift on the deep."
+        },
+        {
+          "v": 26,
+          "kjv": "In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;",
+          "modern": "I have been in journeyings often, in perils of waters, in perils of robbers, in perils from my own countrymen, in perils from the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brothers;"
+        },
+        {
+          "v": 27,
+          "kjv": "In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.",
+          "modern": "in weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness."
+        },
+        {
+          "v": 28,
+          "kjv": "Beside those things that are without, that which cometh upon me daily, the care of all the churches.",
+          "modern": "Besides all those outward things, there is what comes on me daily: the care of all the churches."
+        },
+        {
+          "v": 29,
+          "kjv": "Who is weak, and I am not weak? who is offended, and I burn not?",
+          "modern": "Who is weak, and I am not weak? Who is offended, and I do not burn with grief?"
+        },
+        {
+          "v": 30,
+          "kjv": "If I must needs glory, I will glory of the things which concern mine infirmities.",
+          "modern": "If I must boast, I will boast of the things which concern my weaknesses."
+        },
+        {
+          "v": 31,
+          "kjv": "The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.",
+          "modern": "The God and Father of our Lord Jesus Christ, Who is blessed forevermore, knows that I do not lie."
+        },
+        {
+          "v": 32,
+          "kjv": "In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:",
+          "modern": "In Damascus the governor under King Aretas guarded the city of the Damascenes with a garrison, wanting to arrest me;"
+        },
+        {
+          "v": 33,
+          "kjv": "And through a window in a basket was I let down by the wall, and escaped his hands.",
+          "modern": "and I was let down through a window in a basket by the wall, and so escaped His hands."
+        }
+      ],
+      "summary": "Paul warns that false apostles disguise themselves as ministers of righteousness, just as Satan transforms himself into an angel of light. He reluctantly boasts of his sufferings — beaten, stoned, shipwrecked, in perils on every side — to show that his credentials surpass those of the false teachers troubling Corinth."
+    },
+    {
+      "num": 12,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.",
+          "modern": "It is not really profitable for me to boast. Nevertheless, I will come to visions and revelations of the Lord."
+        },
+        {
+          "v": 2,
+          "kjv": "I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.",
+          "modern": "I knew a man in Christ over fourteen years ago — whether in the body, I cannot tell; or out of the body, I cannot tell: God knows — such a one was caught up to the third heaven."
+        },
+        {
+          "v": 3,
+          "kjv": "And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)",
+          "modern": "And I knew such a man — whether in the body or out of the body, I cannot tell: God knows —"
+        },
+        {
+          "v": 4,
+          "kjv": "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.",
+          "modern": "how He was caught up into paradise and heard unspeakable words, which it is not lawful for a man to utter."
+        },
+        {
+          "v": 5,
+          "kjv": "Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.",
+          "modern": "Of such a one I will boast; yet of myself I will not boast, except in my weaknesses."
+        },
+        {
+          "v": 6,
+          "kjv": "For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.",
+          "modern": "For though I might wish to boast, I would not be a fool — for I would be speaking the truth. But I refrain, so that no one will think of me more highly than what he sees in me or hears from me."
+        },
+        {
+          "v": 7,
+          "kjv": "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.",
+          "modern": "And to keep me from being exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh — a messenger of Satan to buffet me — so I would not be exalted above measure."
+        },
+        {
+          "v": 8,
+          "kjv": "For this thing I besought the Lord thrice, that it might depart from me.",
+          "modern": "Three times I pleaded with the Lord that it might depart from me."
+        },
+        {
+          "v": 9,
+          "kjv": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+          "modern": "And He said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Therefore most gladly will I rather glory in my infirmities, that the power of Christ may rest upon me."
+        },
+        {
+          "v": 10,
+          "kjv": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.",
+          "modern": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake — for when I am weak, then am I strong."
+        },
+        {
+          "v": 11,
+          "kjv": "I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.",
+          "modern": "I have become a fool in boasting; You compelled me. For I ought to have been commended by You, since in nothing am I behind the very chiefest apostles, though I am nothing."
+        },
+        {
+          "v": 12,
+          "kjv": "Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.",
+          "modern": "Truly the signs of an apostle were performed among You in all patience, in signs and wonders and mighty deeds."
+        },
+        {
+          "v": 13,
+          "kjv": "For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.",
+          "modern": "For in what way were You inferior to the other churches, except that I myself was not a burden to You? Forgive me this wrong."
+        },
+        {
+          "v": 14,
+          "kjv": "Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.",
+          "modern": "Now for the third time I am ready to come to You; and I will not be a burden to You, for I seek not Yours, but You. For the children ought not to lay up for the parents, but the parents for the children."
+        },
+        {
+          "v": 15,
+          "kjv": "And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.",
+          "modern": "And I will most gladly spend and be spent for You — though the more abundantly I love You, the less I am loved."
+        },
+        {
+          "v": 16,
+          "kjv": "But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.",
+          "modern": "But be it so: I did not burden You. Nevertheless — they say — being crafty, I caught You with guile."
+        },
+        {
+          "v": 17,
+          "kjv": "Did I make a gain of you by any of them whom I sent unto you?",
+          "modern": "Did I take advantage of You through any of those I sent to You?"
+        },
+        {
+          "v": 18,
+          "kjv": "I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?",
+          "modern": "I urged Titus, and with him I sent a brother. Did Titus take advantage of you? Did we not walk in the same spirit? Did we not walk in the same steps?"
+        },
+        {
+          "v": 19,
+          "kjv": "Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.",
+          "modern": "Again, do You think we are excusing ourselves to You? We speak before God in Christ. But all things, dearly beloved, are for Your building up."
+        },
+        {
+          "v": 20,
+          "kjv": "For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:",
+          "modern": "For I fear that when I come, I shall not find You as I wish, and that I shall be found by You not as You wish — that there may be quarrels, envyings, outbursts of wrath, strifes, backbitings, whisperings, swellings, tumults;"
+        },
+        {
+          "v": 21,
+          "kjv": "And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.",
+          "modern": "and that when I come again, my God may humble me among You, and I shall mourn over many who have sinned before and have not repented of the uncleanness, fornication, and lasciviousness which they have committed."
+        }
+      ],
+      "summary": "Paul tells of a man caught up to the third heaven who heard unspeakable words, and reveals that he was given a thorn in the flesh to keep him humble. The Lord told him, \"My grace is sufficient for thee: for My strength is made perfect in weakness,\" and Paul declares that when he is weak, then he is strong."
+    },
+    {
+      "num": 13,
+      "verses": [
+        {
+          "v": 1,
+          "kjv": "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.",
+          "modern": "This will be the third time I am coming to You. \"In the mouth of two or three witnesses every word shall be established.\""
+        },
+        {
+          "v": 2,
+          "kjv": "I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:",
+          "modern": "I have already warned You, and as if present the second time I now warn You while still absent — those who have sinned before, and all the rest — that if I come again, I will not spare."
+        },
+        {
+          "v": 3,
+          "kjv": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.",
+          "modern": "You are demanding a proof that Christ is speaking in me — He who is not weak toward you, but mighty in you."
+        },
+        {
+          "v": 4,
+          "kjv": "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.",
+          "modern": "For though He was crucified in weakness, yet He lives by the power of God. We also are weak in Him, but we shall live with Him by the power of God toward You."
+        },
+        {
+          "v": 5,
+          "kjv": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?",
+          "modern": "Examine yourselves, whether You be in the faith; test Your own selves. Do You not know Your own selves — that Jesus Christ is in You, unless You be reprobates?"
+        },
+        {
+          "v": 6,
+          "kjv": "But I trust that ye shall know that we are not reprobates.",
+          "modern": "But I trust that You shall know that we are not reprobates."
+        },
+        {
+          "v": 7,
+          "kjv": "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.",
+          "modern": "Now I pray to God that You do no evil — not that we should appear approved, but that You should do what is honest, even though we should seem as reprobates."
+        },
+        {
+          "v": 8,
+          "kjv": "For we can do nothing against the truth, but for the truth.",
+          "modern": "For we can do nothing against the truth, but for the truth."
+        },
+        {
+          "v": 9,
+          "kjv": "For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.",
+          "modern": "For we are glad when we are weak and You are strong. And this also we pray for: Your perfecting."
+        },
+        {
+          "v": 10,
+          "kjv": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.",
+          "modern": "Therefore I write these things while absent, so that when present I may not have to be severe, according to the authority which the Lord has given me — for building up, and not for tearing down."
+        },
+        {
+          "v": 11,
+          "kjv": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
+          "modern": "Finally, brothers, farewell. Be perfect, be of good comfort, be of one mind, live in peace — and the God of love and peace shall be with You."
+        },
+        {
+          "v": 12,
+          "kjv": "Greet one another with an holy kiss.",
+          "modern": "Greet one another with a holy kiss."
+        },
+        {
+          "v": 13,
+          "kjv": "All the saints salute you.",
+          "modern": "All the saints greet You."
+        },
+        {
+          "v": 14,
+          "kjv": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.",
+          "modern": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with You all. Amen."
+        }
+      ],
+      "summary": "Paul warns that on his third visit he will not spare those who continue in sin, and urges the Corinthians to examine themselves to see whether they are in the faith. He closes with a prayer for their perfection and the benediction: \"The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all.\""
+    }
+  ]
+}
